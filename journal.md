@@ -120,3 +120,5 @@ rn i am in lose, i lost the build of schematics, also my system is on the edge i
 i was doing macondo to get a decent laptop, but now thats on hold cuzz of arcana , i want to get to the singapore, 
 
 now then i dont have any option left, all i can doo i restart.
+
+I am back at that point where i lost it. yeah i saved it this time, lol
