@@ -122,3 +122,9 @@ i was doing macondo to get a decent laptop, but now thats on hold cuzz of arcana
 now then i dont have any option left, all i can doo i restart.
 
 I am back at that point where i lost it. yeah i saved it this time, lol
+
+
+i have fnaally made someting. idk why this took so much time but atlest i fugure it, now i am gonna speed i haev to complete my project before 25 to amke it to singapore.
+
+<img width="359" height="199" alt="image" src="https://github.com/user-attachments/assets/8e552ca7-d99b-4823-a1a3-bbb60b96f9de" />
+
