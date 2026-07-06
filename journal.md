@@ -10,3 +10,6 @@ first i will read the full the guide then i will search the about componets and 
 
 found the data sheets for the main MCU  STM32F405RGT6, 
 <img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/512e2687-2a0e-415a-af36-bbb08444ed59" />
+
+neevr used something like this before, it haev 51 gpios that absolutly crazy, lets see how it goes.
+<img width="443" height="427" alt="image" src="https://github.com/user-attachments/assets/53779600-2c1e-4f75-a76d-8b32be848c3d" />
