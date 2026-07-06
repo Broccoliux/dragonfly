@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "GU") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/TSX-3225") (options "") (descr ""))
+	(lib (name "TSX-3225") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/TSX-3225/TSX-3225.lib") (options "") (descr ""))
+)
