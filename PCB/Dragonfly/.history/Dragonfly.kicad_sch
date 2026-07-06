@@ -1526,6 +1526,26 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 99.06) (xy 118.11 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "017ddf80-f8fd-4746-a00a-3e432406634c")
+	)
+	(wire
+		(pts
+			(xy 105.41 71.12) (xy 118.11 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0328fa44-67f6-4049-9bbb-5dc832c5a8a3")
+	)
+	(wire
+		(pts
 			(xy 158.75 68.58) (xy 171.45 68.58)
 		)
 		(stroke
@@ -1583,6 +1603,16 @@
 			(type default)
 		)
 		(uuid "414705b9-f3f3-4c30-922b-01672d36d0c3")
+	)
+	(wire
+		(pts
+			(xy 105.41 58.42) (xy 118.11 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4205c40f-6b63-4555-96ef-f5510a982c53")
 	)
 	(wire
 		(pts
@@ -1863,6 +1893,16 @@
 			(type default)
 		)
 		(uuid "a6919e76-b9ee-4e30-800c-3d6e768eed8c")
+	)
+	(wire
+		(pts
+			(xy 105.41 53.34) (xy 118.11 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a832be80-c960-47ac-99b6-a7206e7c5535")
 	)
 	(wire
 		(pts
@@ -2186,7 +2226,7 @@
 			)
 		)
 	)
-	(global_label "PC9"
+	(global_label "PC8"
 		(shape input)
 		(at 105.41 96.52 180)
 		(fields_autoplaced yes)
@@ -2247,6 +2287,30 @@
 		(uuid "26234a91-f289-407f-83ef-a574a7637a36")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 98.6753 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "PD2"
+		(shape input)
+		(at 105.41 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "28aa64c9-9a3e-4985-aa80-819635a691fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.6753 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2498,6 +2562,30 @@
 			)
 		)
 	)
+	(global_label "BOOT0"
+		(shape input)
+		(at 105.41 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "75ed8886-604a-4d74-aeea-a681f94a959a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.3167 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "PA3"
 		(shape input)
 		(at 171.45 60.96 0)
@@ -2639,6 +2727,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "NRST"
+		(shape input)
+		(at 105.41 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "921331c2-320d-4b03-a260-a29921b0ef84")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.6472 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -2954,6 +3066,30 @@
 			)
 		)
 	)
+	(global_label "CP9"
+		(shape input)
+		(at 105.41 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c28301ac-c0cb-487a-a939-2a7ceafc7b62")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.6753 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "PC2"
 		(shape input)
 		(at 105.41 81.28 180)
@@ -3098,7 +3234,7 @@
 			)
 		)
 	)
-	(global_label "PC8"
+	(global_label "PC7"
 		(shape input)
 		(at 105.41 93.98 180)
 		(fields_autoplaced yes)
