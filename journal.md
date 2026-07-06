@@ -110,3 +110,7 @@ idk why system suks everytime i open kicad.
 
 
 ohh man KICAD just crashed i hope my data is saved init.
+
+
+bro wjy i should have saved this is too bad.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5ba6712b-7b19-4335-bf0d-32b662c17ca3" />
