@@ -98,3 +98,8 @@ also i wont lose my time again i am getting proofs
 here is it.
 
 <img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/13d6df0c-89b2-4834-b1b9-3bb2265dc146" />
+
+so now i reead the refrance schematic and now i know what i haev to copy and what is dont have to. i will be starting with STM32F405RGTx then will assign pins, to global labels
+
+building while vibing
+<img width="285" height="326" alt="image" src="https://github.com/user-attachments/assets/660d5aea-351b-4607-aeb5-f34fb8a063a7" />
