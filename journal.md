@@ -85,3 +85,6 @@ now  i have completed the data sheet and now i am confident to start. and i also
 <img width="485" height="673" alt="image" src="https://github.com/user-attachments/assets/3880a60f-4af5-4fb2-bd77-8d58bd30242f" />
 
 this is not a small gap this is real things, my hrs are getting wasted, definaltly gonna report this and get my time back, also all other kids might be facing the same problem, so i better report it.
+
+
+now i am confident, enough to start the schematicts the real thing, now i ahev to find the refrance schematics for  STM32F405RGT6, cuzz i reallly need that thing. after that will go for other thinsg.
