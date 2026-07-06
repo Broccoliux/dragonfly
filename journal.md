@@ -36,3 +36,8 @@ i should must keep the temps in my cuz they are really imp. why, cuz i bured few
 
 found the really great info, that i also shoudl keep in mind:
 <img width="877" height="560" alt="image" src="https://github.com/user-attachments/assets/d5083598-c3c4-4a48-b856-3f0a5cbbbba6" />
+
+
+idk if this thing i imp to read, cuz it looks difficult
+hell hell hell
+<img width="570" height="625" alt="image" src="https://github.com/user-attachments/assets/6f699286-81a3-47fd-b989-8c216b94bfa9" />
