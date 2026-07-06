@@ -33,3 +33,6 @@ fair point right? this is the reason i prefer reading full data sheet we get to 
 
 i should must keep the temps in my cuz they are really imp. why, cuz i bured few components by not checking the solder tempreture, the SOD light melt instently, lol
 <img width="1308" height="332" alt="image" src="https://github.com/user-attachments/assets/cf94e5c9-edc9-4a19-87bb-7ad89c6facb2" />
+
+found the really great info, that i also shoudl keep in mind:
+<img width="877" height="560" alt="image" src="https://github.com/user-attachments/assets/d5083598-c3c4-4a48-b856-3f0a5cbbbba6" />
