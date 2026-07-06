@@ -133,3 +133,6 @@ i have fnaally made someting. idk why this took so much time but atlest i fugure
 
 <img width="746" height="374" alt="image" src="https://github.com/user-attachments/assets/261d37ec-e20b-46ad-b9d4-915f6c699cd1" />
 
+this is what i haev done soo far. i know this is vey slow, tommorrow i amgoona lock the hard in.
+
+<img width="1167" height="620" alt="image" src="https://github.com/user-attachments/assets/d3bb704a-597c-402b-805a-c8d25b61658b" />
