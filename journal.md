@@ -18,3 +18,14 @@ neevr used something like this before, it haev 51 gpios that absolutly crazy, le
 lol my system go freez as i open the refrance schemtic website. fahhh
 
 one more thing (for the reviewer) that i always read the almost full data sheets to learn everything about it, this is what i haev done in fallout, just wanted to tell, :)
+
+i was reading the data sheet and get to know that we are usinf the lowest power IC, not the the lowest power but there are what are why better then this. like  STM32F407Ix which haev 140 GPIOs but when i asked my mentor (claude) why not we use the STM32F407Ix he said, 
+```
+1. Package size — the big one for a drone. STM32F407Ix comes in LQFP176 or UFBGA176 — a huge package (24×24mm or BGA). Your F405RGT6 is LQFP64 (10×10mm). On a weight- and space-constrained 3" toothpick board, that's a massive difference — the 407I package alone could be bigger than your entire current board footprint.
+2. BGA is a real assembly problem. If you go with a BGA variant of the 407, you can't hand-solder or even hot-air it reliably — BGA packages have solder balls hidden underneath, invisible during reflow, and typically need X-ray inspection to verify. That's a fab-house assembly service requirement, not a DIY bench build.
+3. The extra features are dead weight for a flight controller. F407 adds Ethernet MAC and a camera interface (DCMI) over the F405 — neither is used by Betaflight or any FC firmware. You'd be paying for and routing pins for silicon you'll never touch.
+4. Community/reference design mismatch. F405 (and F411, F722, F745) are the actual chips the entire Betaflight hardware ecosystem is built around — that's why OpenESC-style projects and every AIO board reference schematic target these specifically. F407 basically doesn't show up in FC reference designs, so you'd be flying blind without community schematics to check against — the exact thing you told me you wanted to avoid from the start.
+5. Cost. F407I parts run more than F405RG for capability you don't need.
+Net: F405RGT6 gives you the same core (Cortex-M4, 168MHz, same peripherals that actually matter — SPI, timers, USB) in a smaller, hand-solderable package, with real community backing. F407Ix is the wrong tool here, not a worse version of the right one — it's built for networked embedded systems, not flight controllers.
+```
+fair point right? this is the reason i prefer reading full data sheet we get to know so many use full things.
