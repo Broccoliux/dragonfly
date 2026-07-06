@@ -136,3 +136,15 @@ i have fnaally made someting. idk why this took so much time but atlest i fugure
 this is what i haev done soo far. i know this is vey slow, tommorrow i amgoona lock the hard in.
 
 <img width="1167" height="620" alt="image" src="https://github.com/user-attachments/assets/d3bb704a-597c-402b-805a-c8d25b61658b" />
+
+so i have done today work, today i get the things know and get the hand on experience tommorow  u will what i am gonna do, fahhh
+
+and i added one mroe thing. 
+
+<img width="547" height="451" alt="image" src="https://github.com/user-attachments/assets/dedb65ad-6b08-4d5e-858c-1fd4b571a3c5" />
+
+here is how it looks in full pic
+
+<img width="1194" height="614" alt="image" src="https://github.com/user-attachments/assets/701ae41d-d829-4c20-b597-2b2311d46736" />
+
+
