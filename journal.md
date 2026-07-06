@@ -40,6 +40,7 @@ found the really great info, that i also shoudl keep in mind:
 
 idk if this thing i imp to read, cuz it looks difficult
 hell hell hell
+
 <img width="570" height="625" alt="image" src="https://github.com/user-attachments/assets/6f699286-81a3-47fd-b989-8c216b94bfa9" />
 
 maybe i shoudl not miss that imp info, and ask claude to help me understand it.
@@ -74,4 +75,5 @@ claude is great subscribe.
 
 
 umm we have quite good amount of memory
+
 <img width="586" height="283" alt="image" src="https://github.com/user-attachments/assets/2e5b20b7-5582-4209-a7e4-536b853a9de5" />
