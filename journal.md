@@ -43,3 +43,31 @@ hell hell hell
 <img width="570" height="625" alt="image" src="https://github.com/user-attachments/assets/6f699286-81a3-47fd-b989-8c216b94bfa9" />
 
 maybe i shoudl not miss that imp info, and ask claude to help me understand it.
+claude told i dont have to read this completely, just need to find few things and stick with them, this what claude said.
+```
+Not all of it — and honestly, most of that diagram doesn't apply to you at all.
+This block diagram covers the whole family (F405 + F407 together), so it includes stuff like the Ethernet MAC, camera interface, and USB OTG HS — those are F407-only features baked into your F405's chip too but physically don't exist as usable pins in your smaller LQFP64 package. Ignore all of that.
+What you actually need to find and understand on this diagram (everything else is noise for this project):
+
+GPIO Port A-I — where your pins physically live
+TIM1-TIM14 (the timer blocks) — this is what generates PWM/DShot to your 4 ESCs
+SPI1/2/3 — this is your IMU connection
+USART1-6 / UART4-5 — this is your ELRS receiver connection
+USB OTG FS (not the HS one) — this is your flashing port
+ADC1-3 — only relevant if you add the optional current sense later
+Power management section (VDD, VDDA, POR/PDR, reset & clock control) — this is what your Phase 1 decoupling caps actually connect to
+
+Don't try to "read" this like a book front to back. Use it like a map — when you're wiring something specific (say, "which SPI do I use for the IMU"), come back to this diagram and trace just that one block. Trying to absorb the whole thing at once is exactly why it looks like hell — it's not written to be read linearly, it's written to be referenced.
+You don't need to memorize this. You need to know it exists so when Phase 1 says "assign SPI pins," you know where to look.
+```
+
+all i have to focus is on these:
+GPIO Port A-I — where your pins physically live
+TIM1-TIM14 (the timer blocks) — this is what generates PWM/DShot to your 4 ESCs
+SPI1/2/3 — this is your IMU connection
+USART1-6 / UART4-5 — this is your ELRS receiver connection
+USB OTG FS (not the HS one) — this is your flashing port
+ADC1-3 — only relevant if you add the optional current sense later
+Power management section (VDD, VDDA, POR/PDR, reset & clock control) — this is what your Phase 1 decoupling caps actually connect to
+
+claude is great subscribe.
