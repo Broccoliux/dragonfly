@@ -114,3 +114,9 @@ ohh man KICAD just crashed i hope my data is saved init.
 
 bro wjy i should have saved this is too bad.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5ba6712b-7b19-4335-bf0d-32b662c17ca3" />
+
+
+rn i am in lose, i lost the build of schematics, also my system is on the edge it is lagging like hell, it is freezing, 
+i was doing macondo to get a decent laptop, but now thats on hold cuzz of arcana , i want to get to the singapore, 
+
+now then i dont have any option left, all i can doo i restart.
