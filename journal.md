@@ -78,3 +78,10 @@ claude is great subscribe.
 umm we have quite good amount of memory
 
 <img width="586" height="283" alt="image" src="https://github.com/user-attachments/assets/2e5b20b7-5582-4209-a7e4-536b853a9de5" />
+
+
+now  i have completed the data sheet and now i am confident to start. and i also found a flaw in the look that it dont count time exactly, there is errors in lookout, app i am doing this for morning 11 am and rn its 5pm, and it only counted my time.
+
+<img width="485" height="673" alt="image" src="https://github.com/user-attachments/assets/3880a60f-4af5-4fb2-bd77-8d58bd30242f" />
+
+this is not a small gap this is real things, my hrs are getting wasted, definaltly gonna report this and get my time back, also all other kids might be facing the same problem, so i better report it.
