@@ -104,3 +104,6 @@ so now i reead the refrance schematic and now i know what i haev to copy and wha
 building while vibing
 
 <img width="285" height="326" alt="image" src="https://github.com/user-attachments/assets/660d5aea-351b-4607-aeb5-f34fb8a063a7" />
+
+
+idk why system suks everytime i open kicad.
