@@ -16,3 +16,5 @@ neevr used something like this before, it haev 51 gpios that absolutly crazy, le
 
 
 lol my system go freez as i open the refrance schemtic website. fahhh
+
+one more thing (for the reviewer) that i always read the almost full data sheets to learn everything about it, this is what i haev done in fallout, just wanted to tell, :)
