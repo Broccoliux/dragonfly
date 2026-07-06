@@ -88,3 +88,13 @@ this is not a small gap this is real things, my hrs are getting wasted, definalt
 
 
 now i am confident, enough to start the schematicts the real thing, now i ahev to find the refrance schematics for  STM32F405RGT6, cuzz i reallly need that thing. after that will go for other thinsg.
+
+
+i finally found the refrance schematics. it took me soo much browsing.
+<img width="838" height="596" alt="image" src="https://github.com/user-attachments/assets/f9bc6014-bf56-4942-a8cc-7c9768ee177f" />
+
+
+also i wont lose my time again i am getting proofs
+here is it.
+
+<img width="1366" height="714" alt="image" src="https://github.com/user-attachments/assets/13d6df0c-89b2-4834-b1b9-3bb2265dc146" />
