@@ -107,3 +107,6 @@ building while vibing
 
 
 idk why system suks everytime i open kicad.
+
+
+ohh man KICAD just crashed i hope my data is saved init.
