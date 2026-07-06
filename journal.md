@@ -29,3 +29,7 @@ i was reading the data sheet and get to know that we are usinf the lowest power 
 Net: F405RGT6 gives you the same core (Cortex-M4, 168MHz, same peripherals that actually matter — SPI, timers, USB) in a smaller, hand-solderable package, with real community backing. F407Ix is the wrong tool here, not a worse version of the right one — it's built for networked embedded systems, not flight controllers.
 ```
 fair point right? this is the reason i prefer reading full data sheet we get to know so many use full things.
+
+
+i should must keep the temps in my cuz they are really imp. why, cuz i bured few components by not checking the solder tempreture, the SOD light melt instently, lol
+<img width="1308" height="332" alt="image" src="https://github.com/user-attachments/assets/cf94e5c9-edc9-4a19-87bb-7ad89c6facb2" />
