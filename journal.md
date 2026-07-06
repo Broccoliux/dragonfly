@@ -71,3 +71,7 @@ ADC1-3 — only relevant if you add the optional current sense later
 Power management section (VDD, VDDA, POR/PDR, reset & clock control) — this is what your Phase 1 decoupling caps actually connect to
 
 claude is great subscribe.
+
+
+umm we have quite good amount of memory
+<img width="586" height="283" alt="image" src="https://github.com/user-attachments/assets/2e5b20b7-5582-4209-a7e4-536b853a9de5" />
