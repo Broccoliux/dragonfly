@@ -148,3 +148,4 @@ here is how it looks in full pic
 <img width="1194" height="614" alt="image" src="https://github.com/user-attachments/assets/701ae41d-d829-4c20-b597-2b2311d46736" />
 
 
+bye for today.
