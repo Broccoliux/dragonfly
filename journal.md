@@ -128,3 +128,7 @@ i have fnaally made someting. idk why this took so much time but atlest i fugure
 
 <img width="359" height="199" alt="image" src="https://github.com/user-attachments/assets/8e552ca7-d99b-4823-a1a3-bbb60b96f9de" />
 
+
+2 more pins done
+<img width="746" height="374" alt="image" src="https://github.com/user-attachments/assets/261d37ec-e20b-46ad-b9d4-915f6c699cd1" />
+
