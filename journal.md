@@ -62,6 +62,7 @@ Don't try to "read" this like a book front to back. Use it like a map — when y
 You don't need to memorize this. You need to know it exists so when Phase 1 says "assign SPI pins," you know where to look.
 ```
 
+
 all i have to focus is on these:
 GPIO Port A-I — where your pins physically live
 TIM1-TIM14 (the timer blocks) — this is what generates PWM/DShot to your 4 ESCs
