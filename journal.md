@@ -272,3 +272,5 @@ broooooooooooooooo
 i finally did it.
 
 <img width="519" height="328" alt="image" src="https://github.com/user-attachments/assets/de38942d-df3d-4880-a5d4-6d510e85b232" />
+
+ I think i have done something wrong, the pins are nto connecting with wires. idk why.
