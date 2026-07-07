@@ -181,3 +181,8 @@ solved
 
 <img width="666" height="499" alt="image" src="https://github.com/user-attachments/assets/9e9fa71b-4ab0-4e4a-b027-f17c8f8cc2f2" />
 
+
+added the Indicator light
+
+<img width="683" height="414" alt="image" src="https://github.com/user-attachments/assets/4567650f-5917-48ea-8839-8162b081eee8" />
+
