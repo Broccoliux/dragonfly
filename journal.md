@@ -168,3 +168,7 @@ can u see the progress
 <img width="943" height="616" alt="image" src="https://github.com/user-attachments/assets/56acf510-a25f-43c4-afa1-5b9d192a3519" />
 
 not gonna stop until i complete the MCU
+
+so i just completd one more item, and i go to referece schematics and i found i am doing wrong i have added the erong values to the C1,C2, i gave them 100pf but these are too much i need only 10pf.
+<img width="651" height="504" alt="image" src="https://github.com/user-attachments/assets/e9e26557-b734-41ec-9ed8-c456a88aa3a4" />
+
