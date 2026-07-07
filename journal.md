@@ -175,3 +175,9 @@ so i just completd one more item, and i go to referece schematics and i found i 
 also these where missing
 
 <img width="391" height="361" alt="image" src="https://github.com/user-attachments/assets/2c30ed95-49db-4a40-ac9f-d08ac0262647" />
+
+
+solved 
+
+<img width="666" height="499" alt="image" src="https://github.com/user-attachments/assets/9e9fa71b-4ab0-4e4a-b027-f17c8f8cc2f2" />
+
