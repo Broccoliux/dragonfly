@@ -227,3 +227,23 @@ now gonna make all these:
 
 <img width="1320" height="335" alt="image" src="https://github.com/user-attachments/assets/114990b8-325b-4fa3-b8be-70a8118e6495" />
 
+SD card one, but i am afraid what this doesnt matcht the schemtics properly, i think my symbol is diff
+
+here is how myn looks, 
+
+<img width="988" height="476" alt="image" src="https://github.com/user-attachments/assets/7e04384d-976d-471e-ac74-ed0f4499cb61" />
+
+theres
+
+<img width="576" height="586" alt="image" src="https://github.com/user-attachments/assets/9d95b9fa-4c28-48b1-8bba-60c0a77ab702" />
+
+just verified it not a big deel myn will work fine too. 
+
+
+now  the SD CARD is fully done
+
+<img width="903" height="551" alt="image" src="https://github.com/user-attachments/assets/1709c0e0-e929-4f54-98d5-93d1ef57a7b2" />
+
+next is:
+
+<img width="537" height="511" alt="image" src="https://github.com/user-attachments/assets/17a559ef-a7f2-43d3-a6aa-f3da5dfcf589" />
