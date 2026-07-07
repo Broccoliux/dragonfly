@@ -238,3 +238,9 @@ theres
 <img width="576" height="586" alt="image" src="https://github.com/user-attachments/assets/9d95b9fa-4c28-48b1-8bba-60c0a77ab702" />
 
 just verified it not a big deel myn will work fine too. 
+
+
+now  the SD CARD is fully done
+
+<img width="903" height="551" alt="image" src="https://github.com/user-attachments/assets/1709c0e0-e929-4f54-98d5-93d1ef57a7b2" />
+
