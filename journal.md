@@ -205,10 +205,12 @@ now i need to solve this blunder, this si nto hard to solve but this is good i f
 
 
 now its done:
+
 <img width="1078" height="304" alt="image" src="https://github.com/user-attachments/assets/29906db9-8438-4fab-a2a1-ced6b43ffc24" />
 
 
 i made this but idk if i did it right or wrong.
+
 <img width="506" height="414" alt="image" src="https://github.com/user-attachments/assets/b938866d-086d-4220-990c-0e8535f16b9b" />
 
 let me ask the grok about it :)
