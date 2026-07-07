@@ -187,3 +187,5 @@ added the Indicator light
 <img width="683" height="414" alt="image" src="https://github.com/user-attachments/assets/4567650f-5917-48ea-8839-8162b081eee8" />
 
 so i had few confusion on the power VDD33, VBAT, and VDD33A that should i mane them all VDD33, but my mentor said no keep them saprate they have there own works which are sparate, like VDD33 will provids the normal 3.3v but the VDD33A provide by filtering by ferrite bead.
+
+bro idk what to doo the KICAD is get freez again n again.
