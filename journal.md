@@ -259,3 +259,6 @@ so the next is
 
 <img width="1007" height="604" alt="image" src="https://github.com/user-attachments/assets/1174f0d0-02b4-4c94-b818-276ccb2493a1" />
 
+bruk i stucked, i need this component 
+<img width="262" height="215" alt="image" src="https://github.com/user-attachments/assets/e78e8f62-a6ea-44f1-af15-f076961e9a76" />
+ but this is not avalible and after taking with AI and getting pissed nnow i am gonna do it myself
