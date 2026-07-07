@@ -264,3 +264,5 @@ bruk i stucked, i need this component
  but this is not avalible and after taking with AI and getting pissed nnow i am gonna do it myself
 
 means gonna make it my slef and new sybol for ME6231A33PG
+
+now i have to make the symbol but idk how to make it, i will be my first time
