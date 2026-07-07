@@ -162,3 +162,9 @@ lets see how it goes.
 i am editing the symbol cuz few pins are not visible and i dont like that, idk why but i want every thing precise and perfect. idk why sob>
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1666c247-d595-4f07-8ba9-fdc1b0688a93" />
+
+can u see the progress
+
+<img width="943" height="616" alt="image" src="https://github.com/user-attachments/assets/56acf510-a25f-43c4-afa1-5b9d192a3519" />
+
+not gonna stop until i complete the MCU
