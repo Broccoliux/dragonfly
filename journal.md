@@ -219,3 +219,6 @@ grok said nothing much wrong just placed wrong way.
 so i corrected it
 
 <img width="911" height="519" alt="image" src="https://github.com/user-attachments/assets/b7cbf309-bec3-44c8-b248-18b4d0f7e8f9" />
+
+
+progress can be seen.
