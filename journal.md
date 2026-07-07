@@ -247,3 +247,9 @@ now  the SD CARD is fully done
 next is:
 
 <img width="537" height="511" alt="image" src="https://github.com/user-attachments/assets/17a559ef-a7f2-43d3-a6aa-f3da5dfcf589" />
+
+
+i did the USB C jsut now but idk if this right or wrong.
+
+<img width="865" height="500" alt="image" src="https://github.com/user-attachments/assets/aea2e39f-bf19-4227-8ece-0c9f7b382416" />
+
