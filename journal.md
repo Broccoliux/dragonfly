@@ -276,4 +276,10 @@ i finally did it.
 I think i have done something wrong, the pins are not connecting with wires. idk why.
 
 bro finallt done this took me more then 1.5 hrs but atlest at the end i did it,
-**hi**
+
+<img width="846" height="527" alt="image" src="https://github.com/user-attachments/assets/2f0782fc-a043-49a5-8964-bcf1c9ad2e11" />
+
+SO THIS IS END OF SECOND DAY JOURNAL.
+
+bye for today.
+<p align="center">THE END</p>
