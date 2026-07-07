@@ -267,3 +267,8 @@ means gonna make it my slef and new sybol for ME6231A33PG
 
 now i have to make the symbol but idk how to make it, i will be my first time
 i not able to figure it out, i think i should just watch a youtube tutorial.
+
+broooooooooooooooo
+i finally did it.
+
+<img width="519" height="328" alt="image" src="https://github.com/user-attachments/assets/de38942d-df3d-4880-a5d4-6d510e85b232" />
