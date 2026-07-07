@@ -149,3 +149,9 @@ here is how it looks in full pic
 
 
 bye for today.
+
+
+### 07/07/2036
+
+## TOPIC: making schematics
+
