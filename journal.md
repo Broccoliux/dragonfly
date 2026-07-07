@@ -253,3 +253,9 @@ i did the USB C jsut now but idk if this right or wrong.
 
 <img width="865" height="500" alt="image" src="https://github.com/user-attachments/assets/aea2e39f-bf19-4227-8ece-0c9f7b382416" />
 
+i will ask latter in the #hardware help, cuz grok is getting confused. LOL
+
+so the next is
+
+<img width="1007" height="604" alt="image" src="https://github.com/user-attachments/assets/1174f0d0-02b4-4c94-b818-276ccb2493a1" />
+
