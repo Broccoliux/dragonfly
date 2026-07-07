@@ -172,3 +172,6 @@ not gonna stop until i complete the MCU
 so i just completd one more item, and i go to referece schematics and i found i am doing wrong i have added the erong values to the C1,C2, i gave them 100pf but these are too much i need only 10pf.
 <img width="651" height="504" alt="image" src="https://github.com/user-attachments/assets/e9e26557-b734-41ec-9ed8-c456a88aa3a4" />
 
+also these where missing
+
+<img width="391" height="361" alt="image" src="https://github.com/user-attachments/assets/2c30ed95-49db-4a40-ac9f-d08ac0262647" />
