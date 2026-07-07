@@ -266,3 +266,4 @@ bruk i stucked, i need this component
 means gonna make it my slef and new sybol for ME6231A33PG
 
 now i have to make the symbol but idk how to make it, i will be my first time
+i not able to figure it out, i think i should just watch a youtube tutorial.
