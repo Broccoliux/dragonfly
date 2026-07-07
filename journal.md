@@ -149,7 +149,7 @@ here is how it looks in full pic
 
 
 bye for today.
-<p align="center">This text will be perfectly centered.</p>
+<p align="center">## THE END</p>
 ## THE END
 
 ### 07/07/2036
