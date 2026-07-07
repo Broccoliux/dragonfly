@@ -187,3 +187,35 @@ added the Indicator light
 <img width="683" height="414" alt="image" src="https://github.com/user-attachments/assets/4567650f-5917-48ea-8839-8162b081eee8" />
 
 so i had few confusion on the power VDD33, VBAT, and VDD33A that should i mane them all VDD33, but my mentor said no keep them saprate they have there own works which are sparate, like VDD33 will provids the normal 3.3v but the VDD33A provide by filtering by ferrite bead.
+
+bro idk what to doo the KICAD is get freez again n again.
+
+
+bruh just found the the biggest blunder i did last night. 
+i connected this 
+
+<img width="501" height="267" alt="image" src="https://github.com/user-attachments/assets/06138636-4d30-4f23-9e4c-f5f5882db415" />
+
+with PA pins btu the was gonna get on PC pins.
+here
+
+<img width="718" height="246" alt="image" src="https://github.com/user-attachments/assets/02e390b6-eb58-4872-bb26-d7e534202a73" />
+
+now i need to solve this blunder, this si nto hard to solve but this is good i found this early.
+
+
+now its done:
+
+<img width="1078" height="304" alt="image" src="https://github.com/user-attachments/assets/29906db9-8438-4fab-a2a1-ced6b43ffc24" />
+
+
+i made this but idk if i did it right or wrong.
+
+<img width="506" height="414" alt="image" src="https://github.com/user-attachments/assets/b938866d-086d-4220-990c-0e8535f16b9b" />
+
+let me ask the grok about it :)
+
+grok said nothing much wrong just placed wrong way.
+so i corrected it
+
+<img width="911" height="519" alt="image" src="https://github.com/user-attachments/assets/b7cbf309-bec3-44c8-b248-18b4d0f7e8f9" />
