@@ -273,4 +273,7 @@ i finally did it.
 
 <img width="519" height="328" alt="image" src="https://github.com/user-attachments/assets/de38942d-df3d-4880-a5d4-6d510e85b232" />
 
- I think i have done something wrong, the pins are nto connecting with wires. idk why.
+I think i have done something wrong, the pins are not connecting with wires. idk why.
+
+bro finallt done this took me more then 1.5 hrs but atlest at the end i did it,
+**hi**
