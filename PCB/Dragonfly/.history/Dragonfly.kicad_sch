@@ -4007,6 +4007,16 @@
 	)
 	(wire
 		(pts
+			(xy 688.34 144.78) (xy 688.34 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6876fb6e-a796-462d-aefb-22e975ef9925")
+	)
+	(wire
+		(pts
 			(xy 584.2 90.17) (xy 590.55 90.17)
 		)
 		(stroke
@@ -4244,6 +4254,16 @@
 			(type default)
 		)
 		(uuid "8b780cb2-7271-4a24-98cd-63ff142c7c81")
+	)
+	(wire
+		(pts
+			(xy 628.65 144.78) (xy 628.65 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d74c1cb-52b0-4890-ba15-2b0a3f91ac9e")
 	)
 	(wire
 		(pts
@@ -6577,6 +6597,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VDD")
+		(at 688.34 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0985c082-1958-4db8-8c2e-6dfde8384f4a")
+		(property "Reference" "#PWR018"
+			(at 688.34 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VDD33A"
+			(at 688.34 141.224 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 688.34 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 688.34 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
+			(at 688.34 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "60f0db43-81ab-4484-a496-f7c97a1dabe4")
+		)
+		(instances
+			(project "Dragonfly"
+				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 773.43 63.5 90)
 		(unit 1)
@@ -7877,7 +7974,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 628.65 148.59 0)
+		(at 628.65 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7887,7 +7984,7 @@
 		(dnp no)
 		(uuid "8092c316-f212-429f-815a-95c03dfa0bac")
 		(property "Reference" "#PWR013"
-			(at 628.65 152.4 0)
+			(at 628.65 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7898,7 +7995,7 @@
 			)
 		)
 		(property "Value" "VDD33"
-			(at 628.65 144.526 0)
+			(at 628.65 140.716 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7908,7 +8005,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 628.65 148.59 0)
+			(at 628.65 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7919,7 +8016,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 628.65 148.59 0)
+			(at 628.65 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7930,7 +8027,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 628.65 148.59 0)
+			(at 628.65 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8218,7 +8315,7 @@
 			)
 		)
 		(property "Value" "1KΩ 100Mhz"
-			(at 682.244 147.32 90)
+			(at 678.942 146.558 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
