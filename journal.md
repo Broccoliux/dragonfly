@@ -222,3 +222,8 @@ so i corrected it
 
 
 progress can be seen.
+
+now gonna make all these:
+
+<img width="1320" height="335" alt="image" src="https://github.com/user-attachments/assets/114990b8-325b-4fa3-b8be-70a8118e6495" />
+
