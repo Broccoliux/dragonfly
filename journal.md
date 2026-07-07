@@ -149,10 +149,16 @@ here is how it looks in full pic
 
 
 bye for today.
-<p align="center">## THE END</p>
-## THE END
+<p align="center">THE END</p>
+
 
 ### 07/07/2036
 
 ## TOPIC: making schematics
 
+today i will be completeing the my main MCU, and planning to do atlest 5hr today.
+lets see how it goes.
+
+i am editing the symbol cuz few pins are not visible and i dont like that, idk why but i want every thing precise and perfect. idk why sob>
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1666c247-d595-4f07-8ba9-fdc1b0688a93" />
