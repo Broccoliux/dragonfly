@@ -244,3 +244,6 @@ now  the SD CARD is fully done
 
 <img width="903" height="551" alt="image" src="https://github.com/user-attachments/assets/1709c0e0-e929-4f54-98d5-93d1ef57a7b2" />
 
+next is:
+
+<img width="537" height="511" alt="image" src="https://github.com/user-attachments/assets/17a559ef-a7f2-43d3-a6aa-f3da5dfcf589" />
