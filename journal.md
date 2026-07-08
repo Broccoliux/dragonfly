@@ -335,4 +335,4 @@ bro next goona take even more time.
 
 this goona be complete setup of 2-3 components that will work with moter so every mototr will have its own this setup, this what my mentors guide says:
 
-![Uploading image.png…]()
+<img width="554" height="614" alt="image" src="https://github.com/user-attachments/assets/4ab11fd5-f1af-4e49-a313-faa766dea184" />
