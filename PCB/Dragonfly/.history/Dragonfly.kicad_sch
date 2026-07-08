@@ -3189,7 +3189,7 @@
 					)
 				)
 				(pin output line
-					(at -18.796 -38.1 90)
+					(at -19.05 -38.1 90)
 					(length 2.54)
 					(name "INT"
 						(effects
@@ -3207,7 +3207,7 @@
 					)
 				)
 				(pin passive line
-					(at -16.256 -38.1 90)
+					(at -16.51 -38.1 90)
 					(length 2.54)
 					(name "RESV"
 						(effects
@@ -3225,7 +3225,7 @@
 					)
 				)
 				(pin input line
-					(at -12.7 -38.1 90)
+					(at -13.97 -38.1 90)
 					(length 2.54)
 					(name "FSYNC"
 						(effects
@@ -3245,7 +3245,7 @@
 				(pin power_in line
 					(at -3.81 -19.05 180)
 					(length 2.54)
-					(name "GND"
+					(name "RESV"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3263,7 +3263,7 @@
 				(pin passive line
 					(at -3.81 -21.59 180)
 					(length 2.54)
-					(name "GND"
+					(name "RESV"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3281,7 +3281,7 @@
 				(pin passive line
 					(at -3.81 -24.13 180)
 					(length 2.54)
-					(name "GND"
+					(name "RESV"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3299,7 +3299,7 @@
 				(pin passive line
 					(at -3.81 -26.67 180)
 					(length 2.54)
-					(name "GND"
+					(name "RESV"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3353,7 +3353,7 @@
 				(pin passive line
 					(at -15.24 -12.7 270)
 					(length 2.54)
-					(name "GND"
+					(name "RESV"
 						(effects
 							(font
 								(size 1.27 1.27)
