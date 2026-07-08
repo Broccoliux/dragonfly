@@ -288,3 +288,14 @@ bye for today.
 ### 06/07/2036
 
 ## TOPIC: Doing ICM-20602
+
+figuring out the pinouts.
+
+<img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/8f672630-4412-4480-953b-116c4ae538a1" />
+
+nto able to find the data sheets for the ICM-20602.
+
+ohh just find out.
+
+now gonna read it, i will only read few parts, that are imp not all of em, i read all the for STM and regret it total waste of time, just learnt few concepts.
+
