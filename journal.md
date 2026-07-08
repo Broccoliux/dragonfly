@@ -336,3 +336,7 @@ bro next goona take even more time.
 this goona be complete setup of 2-3 components that will work with moter so every mototr will have its own this setup, this what my mentors guide says:
 
 <img width="554" height="614" alt="image" src="https://github.com/user-attachments/assets/4ab11fd5-f1af-4e49-a313-faa766dea184" />
+
+
+bruh next Phase looks really hard
+<img width="833" height="449" alt="image" src="https://github.com/user-attachments/assets/a2266101-6524-403b-8621-9833ecb8c86f" />
