@@ -3086,8 +3086,8 @@
 			)
 			(symbol "ICM-20602_0_1"
 				(rectangle
-					(start -26.162 -14.986)
-					(end -5.842 -35.306)
+					(start -26.67 -15.24)
+					(end -6.35 -35.306)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -3099,7 +3099,7 @@
 			)
 			(symbol "ICM-20602_1_1"
 				(pin power_in line
-					(at -28.702 -20.066 0)
+					(at -29.21 -20.574 0)
 					(length 2.54)
 					(name "VDDIO"
 						(effects
@@ -3117,7 +3117,7 @@
 					)
 				)
 				(pin input line
-					(at -28.702 -27.686 0)
+					(at -29.21 -27.686 0)
 					(length 2.54)
 					(name "SCL/SPC"
 						(effects
@@ -3135,7 +3135,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -28.702 -25.146 0)
+					(at -29.21 -25.146 0)
 					(length 2.54)
 					(name "SDA/SDI"
 						(effects
@@ -3153,7 +3153,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -28.702 -22.606 0)
+					(at -29.21 -22.86 0)
 					(length 2.54)
 					(name "SAO/SD0"
 						(effects
@@ -3171,7 +3171,7 @@
 					)
 				)
 				(pin input line
-					(at -28.702 -30.226 0)
+					(at -29.21 -30.226 0)
 					(length 2.54)
 					(name "~{CS}"
 						(effects
@@ -3297,7 +3297,7 @@
 					)
 				)
 				(pin passive line
-					(at -3.81 -27.94 180)
+					(at -3.81 -26.67 180)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -3315,7 +3315,7 @@
 					)
 				)
 				(pin passive line
-					(at -3.81 -30.48 180)
+					(at -3.81 -29.21 180)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -3333,7 +3333,7 @@
 					)
 				)
 				(pin passive line
-					(at -13.462 -12.446 270)
+					(at -12.7 -12.7 270)
 					(length 2.54)
 					(name "REGOUT"
 						(effects
@@ -3351,7 +3351,7 @@
 					)
 				)
 				(pin passive line
-					(at -15.748 -12.446 270)
+					(at -15.24 -12.7 270)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -3369,7 +3369,7 @@
 					)
 				)
 				(pin power_in line
-					(at -18.034 -12.446 270)
+					(at -17.78 -12.7 270)
 					(length 2.54)
 					(name "VDD"
 						(effects
