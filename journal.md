@@ -329,3 +329,10 @@ i am finally done with ICM-20602 this shit, actully this is not shit that refran
 but altelst at the end i did it.
 
 <img width="796" height="456" alt="image" src="https://github.com/user-attachments/assets/453dfa18-35bb-41c9-ad18-0e1e132a0d1f" />
+
+
+bro next goona take even more time.
+
+this goona be complete setup of 2-3 components that will work with moter so every mototr will have its own this setup, this what my mentors guide says:
+
+![Uploading image.png…]()
