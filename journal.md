@@ -302,3 +302,6 @@ now gonna read it, i will only read few parts, that are imp not all of em, i rea
 mhmhmhmhm
 i  need to must make these thngs to make it stable and auto pilot.
 <img width="712" height="317" alt="image" src="https://github.com/user-attachments/assets/181881b7-351f-475c-9f92-e411575b2b8f" />
+
+
+Ok now i have all enough to get strated with ICM-20602. next is too find the refrance schematics to make sure its will work fine and dont make noise
