@@ -322,3 +322,10 @@ finally bro did it, this is hell i dont have option else then this except to use
 now all pins connect with wires
 
  <img width="484" height="316" alt="image" src="https://github.com/user-attachments/assets/ae5a3dd2-64ca-4ecc-a9bc-7f5876151e75" />
+
+
+i am finally done with ICM-20602 this shit, actully this is not shit that refrance sch was, idk who tf made that there was soo many mistakes. i had to solve them that took soo long. 
+
+but altelst at the end i did it.
+
+<img width="796" height="456" alt="image" src="https://github.com/user-attachments/assets/453dfa18-35bb-41c9-ad18-0e1e132a0d1f" />
