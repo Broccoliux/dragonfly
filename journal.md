@@ -305,3 +305,9 @@ i  need to must make these thngs to make it stable and auto pilot.
 
 
 Ok now i have all enough to get strated with ICM-20602. next is too find the refrance schematics to make sure its will work fine and dont make noise
+
+found this in the KICAD, it is what i want but the pins are missing i think soo, maybe they are hidden.
+<img width="706" height="718" alt="image" src="https://github.com/user-attachments/assets/c392f84c-51b1-4ba2-b279-3aff15d7f291" />
+<img width="726" height="501" alt="image" src="https://github.com/user-attachments/assets/e3cd7fea-48ce-43af-a582-b9c896af98b1" />
+
+
