@@ -311,3 +311,7 @@ found this in the KICAD, it is what i want but the pins are missing i think soo,
 <img width="726" height="501" alt="image" src="https://github.com/user-attachments/assets/e3cd7fea-48ce-43af-a582-b9c896af98b1" />
 
 
+the KICAD symbols of the ICM-20602 was a bit wrong in the both KICAD and the refrance schematics but no worries i have correcte it, so myy ancestors wont have to struggle, LOL. i mean i have redisign the whole symbol to match same as the refrance one.
+
+
+bro i messed up the pins are not connectinf, i think i did set it right way
