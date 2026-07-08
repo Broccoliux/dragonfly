@@ -340,3 +340,9 @@ this goona be complete setup of 2-3 components that will work with moter so ever
 
 bruh next Phase looks really hard
 <img width="833" height="449" alt="image" src="https://github.com/user-attachments/assets/a2266101-6524-403b-8621-9833ecb8c86f" />
+
+
+my mentor give datasheet that is in chinese how the hell i am goona translate it> metors sucks sometimes
+
+found the right one in english:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1f7b30bb-4f2d-40f5-bb98-192772ed045c" />
