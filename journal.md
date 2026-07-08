@@ -299,3 +299,6 @@ ohh just find out.
 
 now gonna read it, i will only read few parts, that are imp not all of em, i read all the for STM and regret it total waste of time, just learnt few concepts.
 
+mhmhmhmhm
+i  need to must make these thngs to make it stable and auto pilot.
+<img width="712" height="317" alt="image" src="https://github.com/user-attachments/assets/181881b7-351f-475c-9f92-e411575b2b8f" />
