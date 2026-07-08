@@ -315,3 +315,10 @@ the KICAD symbols of the ICM-20602 was a bit wrong in the both KICAD and the ref
 
 
 bro i messed up the pins are not connectinf, i think i did set it right way
+
+
+finally bro did it, this is hell i dont have option else then this except to use standard symbol, and i cant use it cuzz i want to fully match the schemtics and this will help me figure out things latter.
+
+now all pins connect with wires
+
+ <img width="484" height="316" alt="image" src="https://github.com/user-attachments/assets/ae5a3dd2-64ca-4ecc-a9bc-7f5876151e75" />
