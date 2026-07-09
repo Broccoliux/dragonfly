@@ -346,3 +346,15 @@ my mentor give datasheet that is in chinese how the hell i am goona translate it
 
 found the right one in english:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1f7b30bb-4f2d-40f5-bb98-192772ed045c" />
+
+<p align="center">THE END</p>
+
+
+### 09/07/2036
+
+## TOPIC:pahse 3 three hardest part
+
+
+so last day its was  very bad day, i only did 2.5 hrs but i need to do the 10hrs per day, but anyway today we are goona do the phase 3:
+
+<img width="656" height="634" alt="image" src="https://github.com/user-attachments/assets/bfcc7d80-ab05-45e6-92ab-0c544f4e6dc5" />
