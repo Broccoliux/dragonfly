@@ -13621,8 +13621,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 524.002 508.254 90)
+		(property "Value" "10k"
+			(at 525.018 508.254 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14825,8 +14825,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 524.002 501.904 90)
+		(property "Value" "10k"
+			(at 525.272 501.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15381,8 +15381,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 524.51 514.35 90)
+		(property "Value" "10k"
+			(at 525.272 514.604 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16768,7 +16768,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 552.45 491.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16926,7 +16926,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 542.29 491.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17346,7 +17346,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 525.78 491.49 0)
 			(show_name no)
 			(do_not_autoplace no)
