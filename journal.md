@@ -437,3 +437,12 @@ this is where i am rn, sub
 fahhhhh, idk waana drink coffee anymore, sooo
 
 <img width="660" height="679" alt="image" src="https://github.com/user-attachments/assets/a7648d57-ca77-403b-a92d-954c413096b9" />
+
+
+i have completed the 90& of the 1st item of this phase, i still have confusion on the few lebals and components. who made this refrance schemtics must me crazy.
+
+this is how myn looks rn:
+
+<img width="1366" height="765" alt="image" src="https://github.com/user-attachments/assets/2ae71e99-f67c-4c9d-a7fc-bc7d926b7847" />
+
+this thing have serious effort of me, i made sybols and footprints, it must be right now.
