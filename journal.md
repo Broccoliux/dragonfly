@@ -377,3 +377,14 @@ FINALLY DID IT MAN
 <img width="650" height="570" alt="image" src="https://github.com/user-attachments/assets/375990d1-d500-492f-9018-1a7b090f9f66" />
 
 i ma feeling pround now, cuz when i go span for this symbol they siad they will make me one but for 29$, and i made it myslef, ayayayyaya
+
+
+but the most dificult thing still remins, the FOOTPRINT  and i never mmade it before. this gonna eb hard
+
+
+it is too confusing to make the the footpritn i dk what to do maybe i will watch the toutorial:
+
+bro its tooo hard. fahhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+i think i am doing something, not sure if this is right or wrong but still doing it.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fdad8dd2-ee3d-4ded-8bc6-4b53bc32a423" />
