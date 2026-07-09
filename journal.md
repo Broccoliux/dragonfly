@@ -367,3 +367,7 @@ bro i found but i cant download it idk why it is on JLCPCB for eaasyday but it i
 
 maybe i should make my own by replicaating it.
  so yes i am goinfto make my own. wish me GL
+
+
+SO FAR SO GOOD 
+<img width="388" height="375" alt="image" src="https://github.com/user-attachments/assets/baab751e-8405-42f2-a4f3-f8c36ab9f4f1" />
