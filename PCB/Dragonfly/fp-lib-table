@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "ME6231A33PG") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/ME6231A33PG.pretty") (options "") (descr ""))
 	(lib (name "Library") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/ME6231A33PG/Library.pretty") (options "") (descr ""))
+	(lib (name "AT32F421G8U7") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/AT32F421G8U7/AT32F421G8U7.pretty") (options "") (descr ""))
 )
