@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "GU") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/TSX-3225") (options "") (descr ""))
 	(lib (name "TSX-3225") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/TSX-3225/TSX-3225.lib") (options "") (descr ""))
+	(lib (name "AT32F421G8U7") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/AT32F421G8U7/AT32F421G8U7 symbol/AT32F421G8U7.kicad_sym") (options "") (descr ""))
 )
