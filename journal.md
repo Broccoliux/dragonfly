@@ -449,3 +449,19 @@ this thing have serious effort of me, i made sybols and footprints, it must be r
 
 
 i have done areally good, job, what i made in schematis is correct and i have verified it, the only thing i am missing now is the C and R values idk what values ot give them, and the refrace schemaitcs dont have them either.
+
+finally it is almost done, one of the mot difficult things will be ending soon, and u cant imagine, how much my head hurts, cuz its 2am at night, fahhhh
+
+its  now fully done, there no item in PHASe 2 thar is icomplete, everything is done. 
+
+<img width="1010" height="536" alt="image" src="https://github.com/user-attachments/assets/b7e4fa04-dd5c-4bf3-8098-845e8c4ee692" />
+
+<img width="1010" height="536" alt="image" src="https://github.com/user-attachments/assets/c8b05c35-08e8-48ca-9c10-54a938d4ff1c" />
+
+THANK GOD THIS IS DONE OR I WILL BE DEAD FRRR, 
+
+i cant even explain, my condition rn, my eyes are full red rn and my head and back is paining hard, 
+
+BUT I THINK IT IS WORTH IT:
+
+<img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/8fed84cd-19c1-4d26-bdd0-a0e4add16d7a" />
