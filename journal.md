@@ -388,3 +388,8 @@ bro its tooo hard. fahhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 i think i am doing something, not sure if this is right or wrong but still doing it.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fdad8dd2-ee3d-4ded-8bc6-4b53bc32a423" />
+
+
+bro why is this tooo hard, i ahev to take care of every mm and after more then 30 min i only did right side and i am not even sure if it is right or wrong
+
+<img width="592" height="526" alt="image" src="https://github.com/user-attachments/assets/4f1a526c-a900-4bc9-b37b-ff2298e3b47d" />
