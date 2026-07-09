@@ -407,3 +407,13 @@ just numbering left for padds
 completed
 
 <img width="662" height="471" alt="image" src="https://github.com/user-attachments/assets/0734dc01-223f-440a-807f-2090ba943992" />
+
+
+I DID SOME SCH WORK AND 1 ITEM IS DONE, THIS IS THE SYMBOL I GRINDED FOR:
+
+<img width="757" height="461" alt="image" src="https://github.com/user-attachments/assets/28c35b0e-3bcd-447f-ae9c-4b8d6a5c0385" />
+
+
+i wonder why the hack the kicad symbols and the refrace schemtics symbols are no the same shpae, it tok t much tme to verify that pins are correct the the symbol is correct or not.
+
+<img width="1261" height="585" alt="image" src="https://github.com/user-attachments/assets/ff4358cb-102e-4bd8-99e2-84558c31e4c6" />
