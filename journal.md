@@ -398,3 +398,8 @@ bro why is this tooo hard, i ahev to take care of every mm and after more then 3
 bro finally this is perfect now
 
 <img width="579" height="528" alt="image" src="https://github.com/user-attachments/assets/12d310c6-c6b3-4202-b68f-41050e667b18" />
+
+finally completed
+just numbering left for padds
+
+<img width="357" height="313" alt="image" src="https://github.com/user-attachments/assets/e5fcd680-f140-4295-9b03-daf3a8268cfd" />
