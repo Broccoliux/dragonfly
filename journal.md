@@ -393,3 +393,13 @@ i think i am doing something, not sure if this is right or wrong but still doing
 bro why is this tooo hard, i ahev to take care of every mm and after more then 30 min i only did right side and i am not even sure if it is right or wrong
 
 <img width="592" height="526" alt="image" src="https://github.com/user-attachments/assets/4f1a526c-a900-4bc9-b37b-ff2298e3b47d" />
+
+
+bro finally this is perfect now
+
+<img width="579" height="528" alt="image" src="https://github.com/user-attachments/assets/12d310c6-c6b3-4202-b68f-41050e667b18" />
+
+finally completed
+just numbering left for padds
+
+<img width="357" height="313" alt="image" src="https://github.com/user-attachments/assets/e5fcd680-f140-4295-9b03-daf3a8268cfd" />
