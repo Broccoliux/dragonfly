@@ -431,3 +431,7 @@ I DID some work, it was so confusing referance schematics that it took me sooo m
 
 this is where i am rn, sub
 <img width="395" height="318" alt="image" src="https://github.com/user-attachments/assets/da07ea9d-d1b8-41fa-91e9-9d5508d3921d" />
+
+
+fahhhhh, idk waana drink coffee anymore, sooo
+<img width="660" height="679" alt="image" src="https://github.com/user-attachments/assets/a7648d57-ca77-403b-a92d-954c413096b9" />
