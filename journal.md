@@ -377,3 +377,6 @@ FINALLY DID IT MAN
 <img width="650" height="570" alt="image" src="https://github.com/user-attachments/assets/375990d1-d500-492f-9018-1a7b090f9f66" />
 
 i ma feeling pround now, cuz when i go span for this symbol they siad they will make me one but for 29$, and i made it myslef, ayayayyaya
+
+
+but the most dificult thing still remins, the FOOTPRINT  and i never mmade it before. this gonna eb hard
