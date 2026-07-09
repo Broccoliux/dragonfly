@@ -360,3 +360,10 @@ so last day its was  very bad day, i only did 2.5 hrs but i need to do the 10hrs
 <img width="656" height="634" alt="image" src="https://github.com/user-attachments/assets/bfcc7d80-ab05-45e6-92ab-0c544f4e6dc5" />
 
 why the it is too hard to find the perfect symbol, bro this sucks, the symbol i found is diff from the schemtics one
+
+bro i found but i cant download it idk why it is on JLCPCB for eaasyday but it is not downloading and i also cant  fidn anywhere else.
+
+![Uploading image.png…]()
+
+
+maybe i should make my own by replicaating it.
