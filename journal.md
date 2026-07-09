@@ -417,3 +417,6 @@ I DID SOME SCH WORK AND 1 ITEM IS DONE, THIS IS THE SYMBOL I GRINDED FOR:
 i wonder why the hack the kicad symbols and the refrace schemtics symbols are no the same shpae, it tok t much tme to verify that pins are correct the the symbol is correct or not.
 
 <img width="1261" height="585" alt="image" src="https://github.com/user-attachments/assets/ff4358cb-102e-4bd8-99e2-84558c31e4c6" />
+
+
+went to the break for 2hrs,now i am back fully charged, not goona sleep until complete this phase.
