@@ -420,3 +420,6 @@ i wonder why the hack the kicad symbols and the refrace schemtics symbols are no
 
 
 went to the break for 2hrs,now i am back fully charged, not goona sleep until complete this phase.
+
+
+i really needa new laptop, form morning the KICAd have crashed more then 4 times, this is bad, it is slowing me down.
