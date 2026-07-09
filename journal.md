@@ -353,3 +353,8 @@ found the right one in english:
 ### 09/07/2036
 
 ## TOPIC:pahse 3 three hardest part
+
+
+so last day its was  very bad day, i only did 2.5 hrs but i need to do the 10hrs per day, but anyway today we are goona do the phase 3:
+
+<img width="656" height="634" alt="image" src="https://github.com/user-attachments/assets/bfcc7d80-ab05-45e6-92ab-0c544f4e6dc5" />
