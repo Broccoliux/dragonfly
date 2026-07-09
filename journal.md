@@ -423,3 +423,11 @@ went to the break for 2hrs,now i am back fully charged, not goona sleep until co
 
 
 i really needa new laptop, form morning the KICAd have crashed more then 4 times, this is bad, it is slowing me down.
+
+
+I DID some work, it was so confusing referance schematics that it took me sooo much time and still idk so many things init, and this is the best datasheet i found, there is one item idk what is it, and i havent added it yet, first i will confirm it then i will add it.
+
+<img width="262" height="193" alt="image" src="https://github.com/user-attachments/assets/efb3998d-f0dc-4054-a5c4-c2723b917672" />
+
+this is where i am rn, sub
+<img width="395" height="318" alt="image" src="https://github.com/user-attachments/assets/da07ea9d-d1b8-41fa-91e9-9d5508d3921d" />
