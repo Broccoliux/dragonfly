@@ -6106,9 +6106,9 @@
 		)
 		(uuid "14dda69b-04d8-4ef0-ab7d-5f4a7c5f20fd")
 	)
-	(text "ESC3\n\n\n"
+	(text "ESC4\n"
 		(exclude_from_sim no)
-		(at 574.04 452.882 0)
+		(at 574.294 443.23 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -7886,7 +7886,7 @@
 	)
 	(polyline
 		(pts
-			(xy 744.22 436.88) (xy 744.22 632.46)
+			(xy 744.22 436.88) (xy 744.22 629.92)
 		)
 		(stroke
 			(width 1.27)
@@ -9266,6 +9266,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 336.55) (xy 273.05 336.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "389063da-ab35-491f-98b0-08973696c221")
+	)
+	(wire
+		(pts
 			(xy 447.04 322.58) (xy 447.04 381)
 		)
 		(stroke
@@ -9476,7 +9486,7 @@
 	)
 	(polyline
 		(pts
-			(xy 744.22 632.46) (xy 396.24 632.46)
+			(xy 744.22 629.92) (xy 396.24 629.92)
 		)
 		(stroke
 			(width 1.27)
@@ -9943,6 +9953,16 @@
 			(type default)
 		)
 		(uuid "4f18a344-3540-4401-b0ef-ae755bb5d918")
+	)
+	(wire
+		(pts
+			(xy 627.38 336.55) (xy 631.19 336.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f32b30d-cfd3-4dc8-bc33-7b735589246e")
 	)
 	(wire
 		(pts
@@ -12976,6 +12996,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 539.75) (xy 273.05 539.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3eeff60-411d-4a56-82b4-4f6300b46462")
+	)
+	(wire
+		(pts
 			(xy 467.36 64.77) (xy 467.36 50.8)
 		)
 		(stroke
@@ -13436,7 +13466,7 @@
 	)
 	(polyline
 		(pts
-			(xy 396.24 632.46) (xy 396.24 436.88)
+			(xy 396.24 629.92) (xy 396.24 436.88)
 		)
 		(stroke
 			(width 1.27)
@@ -15296,6 +15326,16 @@
 	)
 	(wire
 		(pts
+			(xy 627.38 542.29) (xy 631.19 542.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddd5b237-02b2-4cc0-ae88-20f9aca9c5c1")
+	)
+	(wire
+		(pts
 			(xy 127 532.13) (xy 116.84 532.13)
 		)
 		(stroke
@@ -16470,30 +16510,6 @@
 			)
 		)
 	)
-	(global_label "PA9"
-		(shape input)
-		(at 488.95 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "02b4607d-c269-4230-9b56-d4077f871545")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 495.5033 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "MOSI"
 		(shape input)
 		(at 671.83 132.08 180)
@@ -17243,30 +17259,6 @@
 			)
 		)
 	)
-	(global_label "PA10"
-		(shape input)
-		(at 488.95 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "220d4b54-5e49-4529-b76e-77ae8cd46beb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 496.7128 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "LI12"
 		(shape input)
 		(at 596.9 328.93 180)
@@ -17677,7 +17669,32 @@
 			)
 		)
 	)
-	(global_label "ESC2_L032"
+	(global_label "PWM4"
+		(shape input)
+		(at 488.95 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "38a6b8f5-dc7b-4483-87f9-4dfef1c8f5ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 497.3175 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "ESC2_L034"
 		(shape input)
 		(at 627.38 538.48 0)
 		(fields_autoplaced yes)
@@ -17725,7 +17742,7 @@
 			)
 		)
 	)
-	(global_label "ESC2 C2"
+	(global_label "ESC2 C4"
 		(shape input)
 		(at 697.23 582.93 0)
 		(fields_autoplaced yes)
@@ -17821,7 +17838,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_L022"
+	(global_label "ESC2_L024"
 		(shape input)
 		(at 627.38 530.86 0)
 		(fields_autoplaced yes)
@@ -17894,7 +17911,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_H012"
+	(global_label "ESC2_H014"
 		(shape input)
 		(at 627.38 519.43 0)
 		(fields_autoplaced yes)
@@ -18087,7 +18104,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_L012"
+	(global_label "ESC2_L014"
 		(shape input)
 		(at 627.38 523.24 0)
 		(fields_autoplaced yes)
@@ -18424,7 +18441,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_B2"
+	(global_label "ESC2_B4"
 		(shape input)
 		(at 698.5 535.94 0)
 		(fields_autoplaced yes)
@@ -18810,6 +18827,31 @@
 			)
 		)
 	)
+	(global_label "PWM3"
+		(shape input)
+		(at 488.95 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "7a98f777-e35b-4b24-ae1e-999d66c91f59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 497.3175 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "HI22"
 		(shape input)
 		(at 553.72 354.33 0)
@@ -18882,7 +18924,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_H022"
+	(global_label "ESC2_H024"
 		(shape input)
 		(at 704.85 523.24 0)
 		(fields_autoplaced yes)
@@ -18930,7 +18972,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_l012"
+	(global_label "ESC2_l014"
 		(shape input)
 		(at 678.18 513.08 180)
 		(fields_autoplaced yes)
@@ -19279,30 +19321,6 @@
 		(uuid "893dbb6a-25e2-44ff-952a-97dc50dfe819")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 202.9195 351.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "PA8"
-		(shape input)
-		(at 488.95 92.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "89cc8e56-287e-4b3e-ab6f-594e8e3374a4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 495.5033 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19722,7 +19740,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_H032"
+	(global_label "ESC2_H034"
 		(shape input)
 		(at 627.38 535.94 0)
 		(fields_autoplaced yes)
@@ -20058,7 +20076,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_H022"
+	(global_label "ESC2_H024"
 		(shape input)
 		(at 627.38 528.32 0)
 		(fields_autoplaced yes)
@@ -20226,6 +20244,31 @@
 			)
 		)
 	)
+	(global_label "PWM1"
+		(shape input)
+		(at 488.95 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "ad890d35-d71d-41d3-9768-13b3194fa55e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 497.3175 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "VIN"
 		(shape input)
 		(at 340.36 575.31 0)
@@ -20295,30 +20338,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "PA11"
-		(shape input)
-		(at 488.95 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b1878938-4f97-4fe0-b023-bcb2e8e58b3e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 496.7128 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -20418,7 +20437,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_L032"
+	(global_label "ESC2_L034"
 		(shape input)
 		(at 680.72 608.33 180)
 		(fields_autoplaced yes)
@@ -20684,7 +20703,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_H032"
+	(global_label "ESC2_H034"
 		(shape input)
 		(at 702.31 570.23 0)
 		(fields_autoplaced yes)
@@ -20973,7 +20992,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_A2"
+	(global_label "ESC2_A4"
 		(shape input)
 		(at 694.69 491.49 0)
 		(fields_autoplaced yes)
@@ -21069,7 +21088,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_H012"
+	(global_label "ESC2_H014"
 		(shape input)
 		(at 699.77 478.79 0)
 		(fields_autoplaced yes)
@@ -21574,7 +21593,7 @@
 			)
 		)
 	)
-	(global_label "ESC2_l022"
+	(global_label "ESC2_l024"
 		(shape input)
 		(at 683.26 557.53 180)
 		(fields_autoplaced yes)
@@ -21595,6 +21614,31 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "PWM2"
+		(shape input)
+		(at 488.95 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "f36490e0-8cfa-4e3f-9d4c-511ca5fa3725")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 497.3175 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -22388,6 +22432,85 @@
 			(project "Dragonfly"
 				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 273.05 539.75 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05cac0ed-096b-4d63-8565-bd899e72e03d")
+		(property "Reference" "#PWR099"
+			(at 279.4 539.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 276.86 539.7499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 539.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 539.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 273.05 539.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c8227837-eed7-4b94-8458-121816f3f7f6")
+		)
+		(instances
+			(project "Dragonfly"
+				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -26820,6 +26943,85 @@
 			(project "Dragonfly"
 				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 631.19 542.29 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3293c788-c5c4-4f3c-823f-dd3b68438fb5")
+		(property "Reference" "#PWR098"
+			(at 637.54 542.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 635 542.2899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 631.19 542.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 631.19 542.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 631.19 542.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "74177b9e-a762-443d-9af8-7aad505a079f")
+		)
+		(instances
+			(project "Dragonfly"
+				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -31683,6 +31885,85 @@
 			(project "Dragonfly"
 				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 273.05 336.55 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "666efac2-13d4-4a02-8845-21d0c9aba19d")
+		(property "Reference" "#PWR096"
+			(at 279.4 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 276.86 336.5499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 273.05 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d9ec3aa3-e935-47a4-bb9e-e615c7f013e0")
+		)
+		(instances
+			(project "Dragonfly"
+				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -42901,6 +43182,85 @@
 			(project "Dragonfly"
 				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
 					(reference "R54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 631.19 336.55 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6c299e9-bb12-4b3c-aa56-e39dd47f9f34")
+		(property "Reference" "#PWR097"
+			(at 637.54 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 635 336.5499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 631.19 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 631.19 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 631.19 336.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "49bfb5db-8b92-433e-b793-0d7e14ef1823")
+		)
+		(instances
+			(project "Dragonfly"
+				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
