@@ -417,3 +417,35 @@ I DID SOME SCH WORK AND 1 ITEM IS DONE, THIS IS THE SYMBOL I GRINDED FOR:
 i wonder why the hack the kicad symbols and the refrace schemtics symbols are no the same shpae, it tok t much tme to verify that pins are correct the the symbol is correct or not.
 
 <img width="1261" height="585" alt="image" src="https://github.com/user-attachments/assets/ff4358cb-102e-4bd8-99e2-84558c31e4c6" />
+
+
+went to the break for 2hrs,now i am back fully charged, not goona sleep until complete this phase.
+
+
+i really needa new laptop, form morning the KICAd have crashed more then 4 times, this is bad, it is slowing me down.
+
+
+I DID some work, it was so confusing referance schematics that it took me sooo much time and still idk so many things init, and this is the best datasheet i found, there is one item idk what is it, and i havent added it yet, first i will confirm it then i will add it.
+
+<img width="262" height="193" alt="image" src="https://github.com/user-attachments/assets/efb3998d-f0dc-4054-a5c4-c2723b917672" />
+
+this is where i am rn, sub
+
+<img width="395" height="318" alt="image" src="https://github.com/user-attachments/assets/da07ea9d-d1b8-41fa-91e9-9d5508d3921d" />
+
+
+fahhhhh, idk waana drink coffee anymore, sooo
+
+<img width="660" height="679" alt="image" src="https://github.com/user-attachments/assets/a7648d57-ca77-403b-a92d-954c413096b9" />
+
+
+i have completed the 90& of the 1st item of this phase, i still have confusion on the few lebals and components. who made this refrance schemtics must me crazy.
+
+this is how myn looks rn:
+
+<img width="1366" height="765" alt="image" src="https://github.com/user-attachments/assets/2ae71e99-f67c-4c9d-a7fc-bc7d926b7847" />
+
+this thing have serious effort of me, i made sybols and footprints, it must be right now.
+
+
+i have done areally good, job, what i made in schematis is correct and i have verified it, the only thing i am missing now is the C and R values idk what values ot give them, and the refrace schemaitcs dont have them either.
