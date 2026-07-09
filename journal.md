@@ -346,3 +346,10 @@ my mentor give datasheet that is in chinese how the hell i am goona translate it
 
 found the right one in english:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1f7b30bb-4f2d-40f5-bb98-192772ed045c" />
+
+<p align="center">THE END</p>
+
+
+### 09/07/2036
+
+## TOPIC:pahse 3 three hardest part
