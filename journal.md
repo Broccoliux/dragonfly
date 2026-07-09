@@ -446,3 +446,6 @@ this is how myn looks rn:
 <img width="1366" height="765" alt="image" src="https://github.com/user-attachments/assets/2ae71e99-f67c-4c9d-a7fc-bc7d926b7847" />
 
 this thing have serious effort of me, i made sybols and footprints, it must be right now.
+
+
+i have done areally good, job, what i made in schematis is correct and i have verified it, the only thing i am missing now is the C and R values idk what values ot give them, and the refrace schemaitcs dont have them either.
