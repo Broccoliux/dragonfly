@@ -385,3 +385,6 @@ but the most dificult thing still remins, the FOOTPRINT  and i never mmade it be
 it is too confusing to make the the footpritn i dk what to do maybe i will watch the toutorial:
 
 bro its tooo hard. fahhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+i think i am doing something, not sure if this is right or wrong but still doing it.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fdad8dd2-ee3d-4ded-8bc6-4b53bc32a423" />
