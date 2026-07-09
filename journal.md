@@ -363,8 +363,7 @@ why the it is too hard to find the perfect symbol, bro this sucks, the symbol i 
 
 bro i found but i cant download it idk why it is on JLCPCB for eaasyday but it is not downloading and i also cant  fidn anywhere else.
 
-![Uploading image.png…]()
-
+<img width="281" height="276" alt="image" src="https://github.com/user-attachments/assets/513dcb50-d362-45ac-9663-d6f9f774eef7" />
 
 maybe i should make my own by replicaating it.
  so yes i am goinfto make my own. wish me GL
