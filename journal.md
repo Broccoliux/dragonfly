@@ -380,3 +380,8 @@ i ma feeling pround now, cuz when i go span for this symbol they siad they will 
 
 
 but the most dificult thing still remins, the FOOTPRINT  and i never mmade it before. this gonna eb hard
+
+
+it is too confusing to make the the footpritn i dk what to do maybe i will watch the toutorial:
+
+bro its tooo hard. fahhhhhhhhhhhhhhhhhhhhhhhhhhh
