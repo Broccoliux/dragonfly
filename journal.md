@@ -371,3 +371,9 @@ maybe i should make my own by replicaating it.
 
 SO FAR SO GOOD 
 <img width="388" height="375" alt="image" src="https://github.com/user-attachments/assets/baab751e-8405-42f2-a4f3-f8c36ab9f4f1" />
+
+
+FINALLY DID IT MAN
+<img width="650" height="570" alt="image" src="https://github.com/user-attachments/assets/375990d1-d500-492f-9018-1a7b090f9f66" />
+
+i ma feeling pround now, cuz when i go span for this symbol they siad they will make me one but for 29$, and i made it myslef, ayayayyaya
