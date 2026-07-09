@@ -407,3 +407,8 @@ just numbering left for padds
 completed
 
 <img width="662" height="471" alt="image" src="https://github.com/user-attachments/assets/0734dc01-223f-440a-807f-2090ba943992" />
+
+
+I DID SOME SCH WORK AND 1 ITEM IS DONE, THIS IS THE SYMBOL I GRINDED FOR:
+
+<img width="757" height="461" alt="image" src="https://github.com/user-attachments/assets/28c35b0e-3bcd-447f-ae9c-4b8d6a5c0385" />
