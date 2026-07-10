@@ -487,3 +487,6 @@ pahse 4 is a bit confusing, altough i have done this thing befre but it is locke
 <img width="915" height="594" alt="image" src="https://github.com/user-attachments/assets/3215bfb7-1bb4-4485-91ed-a4acc57a1470" />
 
 ohh dman man htere are websites where if need any refrance schematcs we have to upload 4-5 docs to get that, alsolute shit
+
+
+my lap is getting freez again and again. this is soo frustrating, 
