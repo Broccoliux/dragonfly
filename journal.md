@@ -540,3 +540,8 @@ there where some wrong connections in the OSD i have corrected them , and also d
 
 
 <img width="1023" height="582" alt="image" src="https://github.com/user-attachments/assets/43145675-be00-436c-ab81-c6ae4ebd5cc5" />
+
+
+i added the USB C so it will be easy to flash the firmwre but now i get to know that STM32F405RGTx have specific pins for USB we canot reman as wee need and the that pins are alredy in the use of ESC pins. 
+
+i think i should remove the USB C and stay on SW headers. 
