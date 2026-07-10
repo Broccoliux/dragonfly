@@ -465,3 +465,11 @@ i cant even explain, my condition rn, my eyes are full red rn and my head and ba
 BUT I THINK IT IS WORTH IT:
 
 <img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/8fed84cd-19c1-4d26-bdd0-a0e4add16d7a" />
+
+
+<p align="center">## THE END</p>
+
+
+### 10/07/2036
+
+## TOPIC: phase 4
