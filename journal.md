@@ -565,3 +565,12 @@ Soo colorful
 
 <img width="807" height="589" alt="image" src="https://github.com/user-attachments/assets/cccb04f0-ba21-4f7d-a0fc-3f401059609c" />
 
+
+so the schemmatics is now done, i think this is it for schematics, we have everything to that will make drone fly.
+
+its time for ERc lets see what hellish errors we got.
+
+
+not much but not less eithr.
+
+<img width="676" height="663" alt="image" src="https://github.com/user-attachments/assets/2d3445d4-ff43-4fe4-b5c0-93a9bd3805c8" />
