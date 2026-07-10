@@ -586,4 +586,18 @@ ohh man playop is hanginn
 
 
 the kind of shit i am listening to keep my self swake.
+
 <img width="1363" height="710" alt="image" src="https://github.com/user-attachments/assets/3855ad0d-e14f-40fa-9773-1f1062e74701" />
+
+the error where not that hard just needed to chnage the pin type form input to output and passive, now only 5 error left, i think i should solve them before i sleep.
+
+yes i shoould.
+
+<img width="662" height="608" alt="image" src="https://github.com/user-attachments/assets/77112568-7246-4d21-b6e6-3e4c540a3fa1" />
+
+now only one error left
+
+damn man stuck on the last error 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08de6f52-632a-4ba7-b679-4e662d3b48e2" />
+
