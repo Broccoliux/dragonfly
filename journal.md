@@ -583,3 +583,7 @@ damn man i speant 30min searing for pin connection but at the the end it was GND
 i am using AI to solve a error plzz, consider this a nothing. 
 
 ohh man playop is hanginn 
+
+
+the kind of shit i am listening to keep my self swake.
+<img width="1363" height="710" alt="image" src="https://github.com/user-attachments/assets/3855ad0d-e14f-40fa-9773-1f1062e74701" />
