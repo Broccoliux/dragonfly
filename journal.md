@@ -1,4 +1,4 @@
-## ALL daily journals will can be found here.
+## ALL daily journals will can be seen here.
 
 
 ### 06/07/2036
@@ -499,3 +499,8 @@ i have almost finshed the phase 4, only batter connection left, its wasnt that h
 arranged them so it wont looks mess
 
 <img width="761" height="549" alt="image" src="https://github.com/user-attachments/assets/7d1bd16e-6bdd-4f6c-9982-48dc65726fb4" />
+
+
+so i have completed the phase 4 now the only phase 5 left then ERC and then PCB and DRC
+
+<img width="785" height="616" alt="image" src="https://github.com/user-attachments/assets/dffd0c7e-e166-4a03-b570-8e26938de2f0" />
