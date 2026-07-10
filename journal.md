@@ -545,3 +545,10 @@ there where some wrong connections in the OSD i have corrected them , and also d
 i added the USB C so it will be easy to flash the firmwre but now i get to know that STM32F405RGTx have specific pins for USB we canot reman as wee need and the that pins are alredy in the use of ESC pins. 
 
 i think i should remove the USB C and stay on SW headers. 
+
+
+so i was doing the BMP280 and i get confused on the pins that will be connected to the our STM32F405RGTx so i asked it to ai, PLZZ dont cut too much time, thanks. 
+
+idk why i just pulled up with the help of AI, but i hope this is correct.**HI**
+
+<img width="1085" height="553" alt="image" src="https://github.com/user-attachments/assets/49d433ea-6311-468f-b9d3-e19cc5474622" />
