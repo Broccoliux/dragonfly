@@ -473,3 +473,10 @@ BUT I THINK IT IS WORTH IT:
 ### 10/07/2036
 
 ## TOPIC: phase 4
+
+
+so last day i completed the phase 3 and now i am gonna move to the phase 4.
+
+organized the schematics a lil bit.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f0cf24a6-f6ef-4e4a-842b-1c5e679c49f4" />
