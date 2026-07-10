@@ -523,3 +523,8 @@ OSD Completed:
 
 <img width="700" height="469" alt="image" src="https://github.com/user-attachments/assets/b05d432f-1d35-4197-9ea4-cbc7e8b70a6a" />
 
+also i have coloured the conntion of the ccompoents to the STm so if anyone wants to recreate this he will eb able to do it easily.
+
+<img width="395" height="500" alt="image" src="https://github.com/user-attachments/assets/0b61194b-ca7b-4955-a079-8726cd34ca74" />
+<img width="1015" height="570" alt="image" src="https://github.com/user-attachments/assets/10742fb3-9c31-4d4f-a988-f688fab3f27a" />
+<img width="514" height="418" alt="image" src="https://github.com/user-attachments/assets/cc3f10ca-f975-4c4f-bea3-43b590adcf90" />
