@@ -9277,12 +9277,6 @@
 		(uuid "29aea885-c09b-4380-bb3c-5de7f4dc3942")
 	)
 	(junction
-		(at 345.44 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "29b7eea0-8b3e-48ba-813d-49005df2cff4")
-	)
-	(junction
 		(at 327.66 549.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9407,12 +9401,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "440e1dd0-bb2e-4696-abcf-e1ce56df38e6")
-	)
-	(junction
-		(at 461.01 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45807905-73a7-4bb7-a689-5d0963d0178a")
 	)
 	(junction
 		(at 683.26 100.33)
@@ -9739,12 +9727,6 @@
 		(uuid "85714f5a-8631-4db9-9631-ce89fa0035bc")
 	)
 	(junction
-		(at 654.05 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8a1a90b8-6c14-4e98-95a9-790eea967549")
-	)
-	(junction
 		(at 109.22 240.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9953,6 +9935,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7239675-3e45-434f-9df9-94130ac26799")
+	)
+	(junction
+		(at 378.46 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b924cdbb-88cf-4957-aa0e-b05e0d708eb9")
 	)
 	(junction
 		(at 330.2 501.65)
@@ -10289,6 +10277,10 @@
 	(no_connect
 		(at 151.13 120.65)
 		(uuid "393c873c-2988-46b4-b26a-b96f4789f15e")
+	)
+	(no_connect
+		(at 360.68 172.72)
+		(uuid "3df09b8b-9b5f-4f1e-b76a-dd4d34c6535a")
 	)
 	(no_connect
 		(at 170.18 504.19)
@@ -13024,7 +13016,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 154.94) (xy 345.44 154.94)
+			(xy 330.2 154.94) (xy 347.98 154.94)
 		)
 		(stroke
 			(width 0)
@@ -13864,16 +13856,6 @@
 	)
 	(wire
 		(pts
-			(xy 654.05 69.85) (xy 683.26 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55a2b75d-87f4-4153-b65d-cad3c37dbb5d")
-	)
-	(wire
-		(pts
 			(xy 541.02 532.13) (xy 551.18 532.13)
 		)
 		(stroke
@@ -14381,16 +14363,6 @@
 			(type default)
 		)
 		(uuid "5f71122d-181a-4147-8c40-ee8916ee95e3")
-	)
-	(wire
-		(pts
-			(xy 345.44 154.94) (xy 330.2 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f77b691-a178-49e5-a307-5b554106b32c")
 	)
 	(wire
 		(pts
@@ -18904,7 +18876,7 @@
 	)
 	(wire
 		(pts
-			(xy 646.43 69.85) (xy 654.05 69.85)
+			(xy 646.43 69.85) (xy 683.26 69.85)
 		)
 		(stroke
 			(width 0)
@@ -33540,84 +33512,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 345.44 154.94 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3174c8a4-d8cd-44c2-8891-6063062d7470")
-		(property "Reference" "#FLG05"
-			(at 345.44 153.035 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 345.44 149.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 345.44 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 345.44 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 345.44 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4c5ebb9a-d3b3-47d0-9c52-0d786771adc6")
-		)
-		(instances
-			(project "Dragonfly"
-				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
-					(reference "#FLG05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 55.88 299.72 90)
 		(unit 1)
@@ -35291,84 +35185,6 @@
 			(project "Dragonfly"
 				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
 					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 654.05 69.85 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4142d60c-d95b-40ab-ada1-61bc6efc190b")
-		(property "Reference" "#FLG03"
-			(at 654.05 67.945 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 654.05 64.77 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 654.05 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 654.05 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 654.05 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1282b109-99d1-42ba-b848-343c1601beaf")
-		)
-		(instances
-			(project "Dragonfly"
-				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
-					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -44384,6 +44200,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 378.46 175.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90eef876-0700-4b9e-9278-4075e0479832")
+		(property "Reference" "#PWR0120"
+			(at 378.46 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 378.46 180.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 378.46 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 378.46 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 378.46 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7499afaf-c807-4a7f-8304-4e85c44de014")
+		)
+		(instances
+			(project "Dragonfly"
+				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
+					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:Q_NMOS_GDS")
 		(at 311.15 537.21 270)
 		(unit 1)
@@ -53370,84 +53264,6 @@
 			(project "Dragonfly"
 				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 461.01 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e02357b9-dc6c-4300-8870-60986bc4a6f1")
-		(property "Reference" "#FLG02"
-			(at 461.01 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 461.01 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 461.01 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 461.01 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 461.01 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c4b3fcf2-58de-4c91-894f-cc39e9b40441")
-		)
-		(instances
-			(project "Dragonfly"
-				(path "/f0708a7e-abc5-4571-a850-719a309c37b6"
-					(reference "#FLG02")
 					(unit 1)
 				)
 			)
