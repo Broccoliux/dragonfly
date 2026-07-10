@@ -517,4 +517,9 @@ bro why tf is this shit too expensive, is it made of gold, damn this is shit i w
 
 <img width="859" height="455" alt="image" src="https://github.com/user-attachments/assets/a753925d-fc0d-449a-8475-90ce2604f15f" />
 
-yoo man i was stressing for nothing, after some research i get to now that both MAX7456EUI+ and AT7456E are the same just clone to each other, so they have same KICAD symbol, and footprint and the the refrance schemaatics is also same for both of em
+yoo man i was stressing for nothing, after some research i get to now that both MAX7456EUI+ and AT7456E are the same just clone to each other, so they have same KICAD symbol, and footprint and the the refrance schemaatics is also same for both of em.
+
+SOD Completed:
+
+<img width="700" height="469" alt="image" src="https://github.com/user-attachments/assets/b05d432f-1d35-4197-9ea4-cbc7e8b70a6a" />
+
