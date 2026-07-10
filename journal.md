@@ -1,4 +1,4 @@
-## ALL daily journals will can be found here.
+## ALL daily journals will can be seen here.
 
 
 ### 06/07/2036
@@ -480,3 +480,27 @@ so last day i completed the phase 3 and now i am gonna move to the phase 4.
 organized the schematics a lil bit.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f0cf24a6-f6ef-4e4a-842b-1c5e679c49f4" />
+
+
+pahse 4 is a bit confusing, altough i have done this thing befre but it is locked in my subconscious memory, lol. 
+
+<img width="915" height="594" alt="image" src="https://github.com/user-attachments/assets/3215bfb7-1bb4-4485-91ed-a4acc57a1470" />
+
+ohh dman man htere are websites where if need any refrance schematcs we have to upload 4-5 docs to get that, alsolute shit
+
+
+my lap is getting freez again and again. this is soo frustrating, 
+
+
+i have almost finshed the phase 4, only batter connection left, its wasnt that hard how it looks it was just confusing.
+
+<img width="1083" height="573" alt="image" src="https://github.com/user-attachments/assets/3da667d3-c72e-491d-b1cd-5af57c986e5c" />
+
+arranged them so it wont looks mess
+
+<img width="761" height="549" alt="image" src="https://github.com/user-attachments/assets/7d1bd16e-6bdd-4f6c-9982-48dc65726fb4" />
+
+
+so i have completed the phase 4 now the only phase 5 left then ERC and then PCB and DRC
+
+<img width="785" height="616" alt="image" src="https://github.com/user-attachments/assets/dffd0c7e-e166-4a03-b570-8e26938de2f0" />
