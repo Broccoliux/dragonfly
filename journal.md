@@ -577,3 +577,9 @@ not much but not less eithr.
 
 
 brouh i i have soo many messes in the schematics, and rn i cant find the refrance schematics.
+
+damn man i speant 30min searing for pin connection but at the the end it was GND. FAHHHHHHHHHHHHH
+
+i am using AI to solve a error plzz, consider this a nothing. 
+
+ohh man playop is hanginn 
