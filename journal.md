@@ -480,3 +480,8 @@ so last day i completed the phase 3 and now i am gonna move to the phase 4.
 organized the schematics a lil bit.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f0cf24a6-f6ef-4e4a-842b-1c5e679c49f4" />
+
+
+pahse 4 is a bit confusing, altough i have done this thing befre but it is locked in my subconscious memory, lol. 
+
+<img width="915" height="594" alt="image" src="https://github.com/user-attachments/assets/3215bfb7-1bb4-4485-91ed-a4acc57a1470" />
