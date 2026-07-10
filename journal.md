@@ -552,3 +552,16 @@ so i was doing the BMP280 and i get confused on the pins that will be connected 
 idk why i just pulled up with the help of AI, but i hope this is correct.**HI**
 
 <img width="1085" height="553" alt="image" src="https://github.com/user-attachments/assets/49d433ea-6311-468f-b9d3-e19cc5474622" />
+
+
+it was wrong, 
+
+<img width="735" height="506" alt="image" src="https://github.com/user-attachments/assets/2a6fcc2c-bb47-4159-9e15-bbd06b55cca7" />
+
+also there is no fast pins left on our MCU so i will be connecting its pins will rendom available pins.
+
+
+Soo colorful
+
+<img width="807" height="589" alt="image" src="https://github.com/user-attachments/assets/cccb04f0-ba21-4f7d-a0fc-3f401059609c" />
+
