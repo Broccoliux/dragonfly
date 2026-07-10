@@ -504,3 +504,15 @@ arranged them so it wont looks mess
 so i have completed the phase 4 now the only phase 5 left then ERC and then PCB and DRC
 
 <img width="785" height="616" alt="image" src="https://github.com/user-attachments/assets/dffd0c7e-e166-4a03-b570-8e26938de2f0" />
+
+so now i cant find the, MAX7456 / AT7456 KICAD symbols and its refrance schematics
+
+, so i ahev found the symbol but it in the someones repo so i need to clone the repo or download that file. SOB
+
+got it
+
+<img width="640" height="615" alt="image" src="https://github.com/user-attachments/assets/563f571b-6495-497a-801e-4b629839a80d" />
+
+bro why tf is this shit too expensive, is it made of gold, damn this is shit i will stick with cheaper verionAT7456E
+
+<img width="859" height="455" alt="image" src="https://github.com/user-attachments/assets/a753925d-fc0d-449a-8475-90ce2604f15f" />
