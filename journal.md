@@ -533,3 +533,10 @@ also i have coloured the conntion of the ccompoents to the STm so if anyone want
 looks even better now.
 
 <img width="459" height="502" alt="image" src="https://github.com/user-attachments/assets/4a1af1a9-ac0a-4da9-a430-cfab0eb742a0" />
+
+there where some wrong connections in the OSD i have corrected them , and also did the USB-C 16pin
+
+<img width="670" height="616" alt="image" src="https://github.com/user-attachments/assets/ebd46bac-e236-4989-809e-6c9ad4de27cd" />
+
+
+<img width="1023" height="582" alt="image" src="https://github.com/user-attachments/assets/43145675-be00-436c-ab81-c6ae4ebd5cc5" />
