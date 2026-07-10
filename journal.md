@@ -601,3 +601,9 @@ damn man stuck on the last error
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08de6f52-632a-4ba7-b679-4e662d3b48e2" />
 
+SO this is it for today.
+
+bye
+
+bye for today.
+<p align="center">THE END</p>
