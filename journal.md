@@ -574,3 +574,6 @@ its time for ERc lets see what hellish errors we got.
 not much but not less eithr.
 
 <img width="676" height="663" alt="image" src="https://github.com/user-attachments/assets/2d3445d4-ff43-4fe4-b5c0-93a9bd3805c8" />
+
+
+brouh i i have soo many messes in the schematics, and rn i cant find the refrance schematics.
