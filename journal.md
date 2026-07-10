@@ -504,3 +504,73 @@ arranged them so it wont looks mess
 so i have completed the phase 4 now the only phase 5 left then ERC and then PCB and DRC
 
 <img width="785" height="616" alt="image" src="https://github.com/user-attachments/assets/dffd0c7e-e166-4a03-b570-8e26938de2f0" />
+
+so now i cant find the, MAX7456 / AT7456 KICAD symbols and its refrance schematics
+
+, so i ahev found the symbol but it in the someones repo so i need to clone the repo or download that file. SOB
+
+got it
+
+<img width="640" height="615" alt="image" src="https://github.com/user-attachments/assets/563f571b-6495-497a-801e-4b629839a80d" />
+
+bro why tf is this shit too expensive, is it made of gold, damn this is shit i will stick with cheaper verionAT7456E
+
+<img width="859" height="455" alt="image" src="https://github.com/user-attachments/assets/a753925d-fc0d-449a-8475-90ce2604f15f" />
+
+yoo man i was stressing for nothing, after some research i get to now that both MAX7456EUI+ and AT7456E are the same just clone to each other, so they have same KICAD symbol, and footprint and the the refrance schemaatics is also same for both of em.
+
+OSD Completed:
+
+<img width="700" height="469" alt="image" src="https://github.com/user-attachments/assets/b05d432f-1d35-4197-9ea4-cbc7e8b70a6a" />
+
+also i have coloured the conntion of the ccompoents to the STm so if anyone wants to recreate this he will eb able to do it easily.
+
+<img width="395" height="500" alt="image" src="https://github.com/user-attachments/assets/0b61194b-ca7b-4955-a079-8726cd34ca74" />
+<img width="1015" height="570" alt="image" src="https://github.com/user-attachments/assets/10742fb3-9c31-4d4f-a988-f688fab3f27a" />
+<img width="514" height="418" alt="image" src="https://github.com/user-attachments/assets/cc3f10ca-f975-4c4f-bea3-43b590adcf90" />
+
+
+looks even better now.
+
+<img width="459" height="502" alt="image" src="https://github.com/user-attachments/assets/4a1af1a9-ac0a-4da9-a430-cfab0eb742a0" />
+
+there where some wrong connections in the OSD i have corrected them , and also did the USB-C 16pin
+
+<img width="670" height="616" alt="image" src="https://github.com/user-attachments/assets/ebd46bac-e236-4989-809e-6c9ad4de27cd" />
+
+
+<img width="1023" height="582" alt="image" src="https://github.com/user-attachments/assets/43145675-be00-436c-ab81-c6ae4ebd5cc5" />
+
+
+i added the USB C so it will be easy to flash the firmwre but now i get to know that STM32F405RGTx have specific pins for USB we canot reman as wee need and the that pins are alredy in the use of ESC pins. 
+
+i think i should remove the USB C and stay on SW headers. 
+
+
+so i was doing the BMP280 and i get confused on the pins that will be connected to the our STM32F405RGTx so i asked it to ai, PLZZ dont cut too much time, thanks. 
+
+idk why i just pulled up with the help of AI, but i hope this is correct.**HI**
+
+<img width="1085" height="553" alt="image" src="https://github.com/user-attachments/assets/49d433ea-6311-468f-b9d3-e19cc5474622" />
+
+
+it was wrong, 
+
+<img width="735" height="506" alt="image" src="https://github.com/user-attachments/assets/2a6fcc2c-bb47-4159-9e15-bbd06b55cca7" />
+
+also there is no fast pins left on our MCU so i will be connecting its pins will rendom available pins.
+
+
+Soo colorful
+
+<img width="807" height="589" alt="image" src="https://github.com/user-attachments/assets/cccb04f0-ba21-4f7d-a0fc-3f401059609c" />
+
+
+so the schemmatics is now done, i think this is it for schematics, we have everything to that will make drone fly.
+
+its time for ERc lets see what hellish errors we got.
+
+
+not much but not less eithr.
+
+<img width="676" height="663" alt="image" src="https://github.com/user-attachments/assets/2d3445d4-ff43-4fe4-b5c0-93a9bd3805c8" />
