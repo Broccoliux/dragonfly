@@ -490,3 +490,12 @@ ohh dman man htere are websites where if need any refrance schematcs we have to 
 
 
 my lap is getting freez again and again. this is soo frustrating, 
+
+
+i have almost finshed the phase 4, only batter connection left, its wasnt that hard how it looks it was just confusing.
+
+<img width="1083" height="573" alt="image" src="https://github.com/user-attachments/assets/3da667d3-c72e-491d-b1cd-5af57c986e5c" />
+
+arranged them so it wont looks mess
+
+<img width="761" height="549" alt="image" src="https://github.com/user-attachments/assets/7d1bd16e-6bdd-4f6c-9982-48dc65726fb4" />
