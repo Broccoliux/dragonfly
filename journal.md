@@ -714,3 +714,4 @@ first phase done
 
 <img width="1246" height="707" alt="image" src="https://github.com/user-attachments/assets/6da37170-b673-4122-a9d7-dd1fa2c17f92" />
 
+hey i had a SD in the shematics i think i should delete it cuz i dont find any crusial use case
