@@ -686,3 +686,4 @@ idk why but it dont, even thothat repo man had the same symbols but i think i mi
 now idk what design i should take for PCB like a small square or a rectangular, i think rectangular will be better, but still i will reserch on it.
 
 how much i searched the square one is better, but will still add the small req in it, soo it will beeasy to route.
+ i made an rough one , to see if it fits ir not and it is fitting perfectly in 50X50
