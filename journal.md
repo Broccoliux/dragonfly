@@ -682,3 +682,7 @@ this does not look good>
 <img width="697" height="521" alt="image" src="https://github.com/user-attachments/assets/e68cfd73-b150-494e-b398-75e9ee4f6822" />
 
 idk why but it dont, even thothat repo man had the same symbols but i think i missed something there..
+
+now idk what design i should take for PCB like a small square or a rectangular, i think rectangular will be better, but still i will reserch on it.
+
+how much i searched the square one is better, but will still add the small req in it, soo it will beeasy to route.
