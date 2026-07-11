@@ -663,3 +663,10 @@ he is using same lebals as i
 
 <img width="1213" height="354" alt="image" src="https://github.com/user-attachments/assets/51403df4-ff70-4e5e-ac80-0f155f4c64db" />
 
+OHH man finally got the footprint; Diodes_PowerDI3333-8 in package son
+
+this is not a normal man look how badass he is , soo professional
+
+i wonder how much time took hin to do this
+
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/aecf3c58-99f6-4741-a602-e501a54c01e3" />
