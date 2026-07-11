@@ -670,3 +670,45 @@ this is not a normal man look how badass he is , soo professional
 i wonder how much time took hin to do this
 
 <img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/aecf3c58-99f6-4741-a602-e501a54c01e3" />
+
+u what, my laptop is too weird if any app stops responding i trys to restart the app by task amnager but task manager also stops responding, heelish hell
+
+just completed all the footprints now the next part is my favrouit THE ROUTING part, i love this.
+
+broooooo
+
+this does not look good>
+
+<img width="697" height="521" alt="image" src="https://github.com/user-attachments/assets/e68cfd73-b150-494e-b398-75e9ee4f6822" />
+
+idk why but it dont, even thothat repo man had the same symbols but i think i missed something there..
+
+now idk what design i should take for PCB like a small square or a rectangular, i think rectangular will be better, but still i will reserch on it.
+
+how much i searched the square one is better, but will still add the small req in it, soo it will beeasy to route.
+ i made an rough one , to see if it fits ir not and it is fitting perfectly in 50X50
+
+
+i have to make new design where all components will setell the best way.
+
+<img width="480" height="461" alt="image" src="https://github.com/user-attachments/assets/649658fd-5c96-40e2-a74b-617c08d87265" />
+
+
+i made this but idk ehy it is not working i rechecked it but still not working
+
+
+now i have very good design but it is not workking, idk why         SOB 
+
+yayayyayayayayay
+finally
+<img width="787" height="538" alt="image" src="https://github.com/user-attachments/assets/4918ae96-b4f7-451b-89c5-6783eeaa1a0b" />
+
+
+i am placinf components very slowly and precisely, cud i dont wan tany mess i will take time but make it best
+
+
+first phase done
+
+<img width="863" height="525" alt="image" src="https://github.com/user-attachments/assets/c6fe86c7-2661-4e57-bb40-80a6e6b8d2eb" />
+
+<img width="788" height="509" alt="image" src="https://github.com/user-attachments/assets/54244590-acd4-4f8b-b5eb-93df503b8544" />
