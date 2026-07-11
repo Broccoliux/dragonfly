@@ -12408,7 +12408,7 @@
 	)
 	(text " Power - Buck (5V) + LDO (3.3V)"
 		(exclude_from_sim no)
-		(at 518.16 27.94 0)
+		(at 518.16 25.4 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -15118,7 +15118,7 @@
 	)
 	(polyline
 		(pts
-			(xy 553.72 26.416) (xy 553.72 31.496)
+			(xy 553.72 23.876) (xy 553.72 28.956)
 		)
 		(stroke
 			(width 1.27)
@@ -16338,7 +16338,7 @@
 	)
 	(polyline
 		(pts
-			(xy 485.14 23.876) (xy 485.14 31.496)
+			(xy 485.14 21.336) (xy 485.14 28.956)
 		)
 		(stroke
 			(width 1.27)
@@ -16738,7 +16738,7 @@
 	)
 	(polyline
 		(pts
-			(xy 553.72 31.496) (xy 553.72 23.876)
+			(xy 553.72 28.956) (xy 553.72 21.336)
 		)
 		(stroke
 			(width 1.27)
@@ -19948,7 +19948,7 @@
 	)
 	(polyline
 		(pts
-			(xy 485.14 31.496) (xy 553.72 31.496)
+			(xy 485.14 28.956) (xy 553.72 28.956)
 		)
 		(stroke
 			(width 1.27)
@@ -58472,7 +58472,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "4.7uf"
 			(at 422.148 79.756 0)
 			(show_name no)
 			(do_not_autoplace no)
