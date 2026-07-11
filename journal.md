@@ -702,3 +702,6 @@ now i have very good design but it is not workking, idk why         SOB
 yayayyayayayayay
 finally
 <img width="787" height="538" alt="image" src="https://github.com/user-attachments/assets/4918ae96-b4f7-451b-89c5-6783eeaa1a0b" />
+
+
+i am placinf components very slowly and precisely, cud i dont wan tany mess i will take time but make it best
