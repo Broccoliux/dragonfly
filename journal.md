@@ -692,3 +692,6 @@ how much i searched the square one is better, but will still add the small req i
 i have to make new design where all components will setell the best way.
 
 <img width="480" height="461" alt="image" src="https://github.com/user-attachments/assets/649658fd-5c96-40e2-a74b-617c08d87265" />
+
+
+i made this but idk ehy it is not working i rechecked it but still not working
