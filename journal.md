@@ -629,3 +629,6 @@ corrected the Battery conection.
 
 
 i am, getting so frustrated rn, what the hell is with my laptop the symbol i made and its footprint was lost then i had to find, also soo many compoenents are confusing its getting to hard step by step, i am really losing
+
+
+now i ahev to make a acoount to get open source footprint. seriously
