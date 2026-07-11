@@ -632,3 +632,8 @@ i am, getting so frustrated rn, what the hell is with my laptop the symbol i mad
 
 
 now i ahev to make a acoount to get open source footprint. seriously
+
+
+so i ahev added 3model to the footprints not to all of them but few. i stoed cuz i found few mistakes that i have to solve before i move to anything else. also i havent added the MOSSFET footprints yet cuzz i didnt found  any, this ill be bad.
+
+<img width="1074" height="606" alt="image" src="https://github.com/user-attachments/assets/ba402809-895a-4421-b631-ec3bba5ad4b2" />
