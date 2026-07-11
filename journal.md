@@ -705,3 +705,10 @@ finally
 
 
 i am placinf components very slowly and precisely, cud i dont wan tany mess i will take time but make it best
+
+
+first phase done
+
+<img width="863" height="525" alt="image" src="https://github.com/user-attachments/assets/c6fe86c7-2661-4e57-bb40-80a6e6b8d2eb" />
+
+<img width="788" height="509" alt="image" src="https://github.com/user-attachments/assets/54244590-acd4-4f8b-b5eb-93df503b8544" />
