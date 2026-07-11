@@ -617,3 +617,32 @@ so last day i completd the schematic, and was solveing the error but 1 error rem
 
 
 now bro everything is done in schematics all ERC error are gone also there where some hidden error is the warining i have solved them too, so next i will be going to assign the footpints to the all components.
+
+bro i messed up on battery connections, i used JST that is for low currents but i didnt know that for drones we need XT60PW-M to handel that much current.
+
+also why tf battery are soo halla expensive
+
+
+corrected the Battery conection.
+
+<img width="481" height="385" alt="image" src="https://github.com/user-attachments/assets/05d6e718-63e4-4c67-b159-3d18c5c1bfc4" />
+
+
+i am, getting so frustrated rn, what the hell is with my laptop the symbol i made and its footprint was lost then i had to find, also soo many compoenents are confusing its getting to hard step by step, i am really losing
+
+
+now i ahev to make a acoount to get open source footprint. seriously
+
+
+so i ahev added 3model to the footprints not to all of them but few. i stoed cuz i found few mistakes that i have to solve before i move to anything else. also i havent added the MOSSFET footprints yet cuzz i didnt found  any, this ill be bad.
+
+<img width="1074" height="606" alt="image" src="https://github.com/user-attachments/assets/ba402809-895a-4421-b631-ec3bba5ad4b2" />
+
+
+the only symbols left now is this
+
+<img width="665" height="463" alt="image" src="https://github.com/user-attachments/assets/363c5b85-bade-4990-a494-12ec311b3203" />
+
+also i maybe have to redesign its symbol cuzz according tp google ur symbol must be same as footpint ur chosing but our are diff cuzz i didnt found the correct symbols
+
+my brain is not brianing, cuz of these shitty MOSSFET, this shit is widely being used in drone but it dont have exact symbol and footprints, total shit.
