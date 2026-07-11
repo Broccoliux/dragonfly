@@ -695,3 +695,10 @@ i have to make new design where all components will setell the best way.
 
 
 i made this but idk ehy it is not working i rechecked it but still not working
+
+
+now i have very good design but it is not workking, idk why         SOB 
+
+yayayyayayayayay
+finally
+<img width="787" height="538" alt="image" src="https://github.com/user-attachments/assets/4918ae96-b4f7-451b-89c5-6783eeaa1a0b" />
