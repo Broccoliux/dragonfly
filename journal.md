@@ -675,3 +675,10 @@ u what, my laptop is too weird if any app stops responding i trys to restart the
 
 just completed all the footprints now the next part is my favrouit THE ROUTING part, i love this.
 
+broooooo
+
+this does not look good>
+
+<img width="697" height="521" alt="image" src="https://github.com/user-attachments/assets/e68cfd73-b150-494e-b398-75e9ee4f6822" />
+
+idk why but it dont, even thothat repo man had the same symbols but i think i missed something there..
