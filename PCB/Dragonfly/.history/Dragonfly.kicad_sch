@@ -46175,7 +46175,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "2.2uf"
 			(at 110.744 151.892 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57739,7 +57739,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "2.2uf"
 			(at 120.904 152.146 0)
 			(show_name no)
 			(do_not_autoplace no)
