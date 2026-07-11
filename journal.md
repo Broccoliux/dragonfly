@@ -646,3 +646,27 @@ the only symbols left now is this
 also i maybe have to redesign its symbol cuzz according tp google ur symbol must be same as footpint ur chosing but our are diff cuzz i didnt found the correct symbols
 
 my brain is not brianing, cuz of these shitty MOSSFET, this shit is widely being used in drone but it dont have exact symbol and footprints, total shit.
+
+
+i am opening that github guy schematics to see what symbol and footprints he is using .
+
+bro what the hack that repo guy did to this, looks more like a creepy insect then PCB
+
+<img width="814" height="650" alt="image" src="https://github.com/user-attachments/assets/bebffb17-8e4c-4618-ba0a-af9c269001bb" />
+
+<img width="1013" height="609" alt="image" src="https://github.com/user-attachments/assets/16e794d4-9e03-4275-b57a-91caa9d26afa" />
+
+bro this schemtics dont haev the things that i need, idk what is that but that is not what i am looking for, total waste of time.
+
+oh bro hes verion is right an we i am very close i just need to extract the footprint from here, all other things are correct on my end, i was stressing fot nothing;
+he is using same lebals as i 
+
+<img width="1213" height="354" alt="image" src="https://github.com/user-attachments/assets/51403df4-ff70-4e5e-ac80-0f155f4c64db" />
+
+OHH man finally got the footprint; Diodes_PowerDI3333-8 in package son
+
+this is not a normal man look how badass he is , soo professional
+
+i wonder how much time took hin to do this
+
+<img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/aecf3c58-99f6-4741-a602-e501a54c01e3" />
