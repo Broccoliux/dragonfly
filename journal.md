@@ -626,3 +626,6 @@ also why tf battery are soo halla expensive
 corrected the Battery conection.
 
 <img width="481" height="385" alt="image" src="https://github.com/user-attachments/assets/05d6e718-63e4-4c67-b159-3d18c5c1bfc4" />
+
+
+i am, getting so frustrated rn, what the hell is with my laptop the symbol i made and its footprint was lost then i had to find, also soo many compoenents are confusing its getting to hard step by step, i am really losing
