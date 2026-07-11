@@ -644,3 +644,5 @@ the only symbols left now is this
 <img width="665" height="463" alt="image" src="https://github.com/user-attachments/assets/363c5b85-bade-4990-a494-12ec311b3203" />
 
 also i maybe have to redesign its symbol cuzz according tp google ur symbol must be same as footpint ur chosing but our are diff cuzz i didnt found the correct symbols
+
+my brain is not brianing, cuz of these shitty MOSSFET, this shit is widely being used in drone but it dont have exact symbol and footprints, total shit.
