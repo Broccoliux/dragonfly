@@ -637,3 +637,9 @@ now i ahev to make a acoount to get open source footprint. seriously
 so i ahev added 3model to the footprints not to all of them but few. i stoed cuz i found few mistakes that i have to solve before i move to anything else. also i havent added the MOSSFET footprints yet cuzz i didnt found  any, this ill be bad.
 
 <img width="1074" height="606" alt="image" src="https://github.com/user-attachments/assets/ba402809-895a-4421-b631-ec3bba5ad4b2" />
+
+
+the only symbols left now is this
+<img width="665" height="463" alt="image" src="https://github.com/user-attachments/assets/363c5b85-bade-4990-a494-12ec311b3203" />
+
+also i maybe have to redesign its symbol cuzz according tp google ur symbol must be same as footpint ur chosing but our are diff cuzz i didnt found the correct symbols
