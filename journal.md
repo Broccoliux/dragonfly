@@ -640,6 +640,7 @@ so i ahev added 3model to the footprints not to all of them but few. i stoed cuz
 
 
 the only symbols left now is this
+
 <img width="665" height="463" alt="image" src="https://github.com/user-attachments/assets/363c5b85-bade-4990-a494-12ec311b3203" />
 
 also i maybe have to redesign its symbol cuzz according tp google ur symbol must be same as footpint ur chosing but our are diff cuzz i didnt found the correct symbols
