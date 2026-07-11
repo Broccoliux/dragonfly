@@ -614,3 +614,6 @@ bye for today.
 ## TOPIC: finshing the schemtics and solveing all error and moving to MCB.
 
 so last day i completd the schematic, and was solveing the error but 1 error remains, and its a bit confusing.
+
+
+now bro everything is done in schematics all ERC error are gone also there where some hidden error is the warining i have solved them too, so next i will be going to assign the footpints to the all components.
