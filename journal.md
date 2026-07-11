@@ -621,3 +621,8 @@ now bro everything is done in schematics all ERC error are gone also there where
 bro i messed up on battery connections, i used JST that is for low currents but i didnt know that for drones we need XT60PW-M to handel that much current.
 
 also why tf battery are soo halla expensive
+
+
+corrected the Battery conection.
+
+<img width="481" height="385" alt="image" src="https://github.com/user-attachments/assets/05d6e718-63e4-4c67-b159-3d18c5c1bfc4" />
