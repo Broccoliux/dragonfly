@@ -12396,10 +12396,22 @@
 		(uuid "08eef5fc-fc5e-4017-8885-0a479f0ba0e8")
 	)
 	(junction
+		(at 147.32 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09e737b0-5c5a-404a-8446-ea094e9fbfa2")
+	)
+	(junction
 		(at 143.51 386.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0bddc16b-d83b-4a1f-b280-6958d6777894")
+	)
+	(junction
+		(at 100.33 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c4f4be1-a117-46d7-9067-ace0f123809c")
 	)
 	(junction
 		(at 501.65 219.71)
@@ -12424,12 +12436,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11c0f943-3a66-493d-96c2-5d78792eb880")
-	)
-	(junction
-		(at 241.3 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1233b371-8969-4548-9356-b9825421b0e7")
 	)
 	(junction
 		(at 454.66 445.77)
@@ -12486,13 +12492,19 @@
 		(uuid "18f98c35-1039-44fd-9003-49f4b2ddde26")
 	)
 	(junction
+		(at 130.81 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b1e45c6-02de-4814-b3e5-0ccba4676049")
+	)
+	(junction
 		(at 502.92 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b34f049-cdd5-47f7-9f22-4701c985788e")
 	)
 	(junction
-		(at 680.72 171.45)
+		(at 674.37 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b7959ee-aeb0-46fb-8f98-c0cd297c4bd4")
@@ -12508,12 +12520,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1bf42beb-1384-4702-afa4-905104eddfa4")
-	)
-	(junction
-		(at 147.32 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d3a8bdd-01cf-497b-aef7-dff27ee4385e")
 	)
 	(junction
 		(at 539.75 48.26)
@@ -12582,6 +12588,12 @@
 		(uuid "2af6adce-46b7-4e1b-a01c-c6aaa3c3afa4")
 	)
 	(junction
+		(at 110.49 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b9accd0-a9bf-45f4-b332-a3139197b900")
+	)
+	(junction
 		(at 695.96 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12592,12 +12604,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2da4e009-aa99-4563-85ba-41121da60986")
-	)
-	(junction
-		(at 227.33 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "30ac007f-501b-42b8-aa90-871e71e94d48")
 	)
 	(junction
 		(at 554.99 111.76)
@@ -12616,18 +12622,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30eb2f6c-4ba5-47e7-9cb4-bafa8d3af810")
-	)
-	(junction
-		(at 77.47 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34346441-f506-41c3-8647-764819e20128")
-	)
-	(junction
-		(at 271.78 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3687e9f7-85c9-49ed-a8b3-17219af8117f")
 	)
 	(junction
 		(at 642.62 312.42)
@@ -12694,12 +12688,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4645e9f2-b1ca-493e-9305-545163deed33")
-	)
-	(junction
-		(at 152.4 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "48a6b88e-c13e-4dac-ba4e-7cf8f4b1479f")
 	)
 	(junction
 		(at 332.74 281.94)
@@ -12774,10 +12762,10 @@
 		(uuid "525842a1-37ce-4dca-8c4a-a8269811d188")
 	)
 	(junction
-		(at 149.86 172.72)
+		(at 147.32 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5436b26e-5ac1-4071-a006-34cac5b22a13")
+		(uuid "5296413b-1953-498c-8c45-b60a4fdd64f2")
 	)
 	(junction
 		(at 642.62 320.04)
@@ -12792,7 +12780,7 @@
 		(uuid "5467df51-cb66-4104-adf8-6cc58d583ba7")
 	)
 	(junction
-		(at 680.72 139.7)
+		(at 674.37 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5490759f-5730-49b6-8034-e0b3dfc01afc")
@@ -12864,16 +12852,22 @@
 		(uuid "63744017-3b6a-402c-9b93-95e4428dd93b")
 	)
 	(junction
+		(at 227.33 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "654632fb-f47a-4081-9f05-c93bb4fbc5c0")
+	)
+	(junction
 		(at 467.36 273.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "699041a8-193a-4b84-867f-f0157beab320")
 	)
 	(junction
-		(at 271.78 151.13)
+		(at 149.86 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6c5443de-1284-4c77-8289-15a1d9495894")
+		(uuid "6bf0b486-16c8-43e4-9bd9-71ff5ae813df")
 	)
 	(junction
 		(at 502.92 113.03)
@@ -12900,12 +12894,6 @@
 		(uuid "6e5bcd9a-37f5-4d15-98ed-9f17d92d8cd5")
 	)
 	(junction
-		(at 110.49 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6fb87779-c091-4bd7-903e-c9a76af10026")
-	)
-	(junction
 		(at 708.66 326.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12916,6 +12904,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "744d2f29-6aa3-4f39-9dfe-21827b83d166")
+	)
+	(junction
+		(at 227.33 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "752f7143-c0ca-4e20-9a1d-4526d1c2a16e")
+	)
+	(junction
+		(at 152.4 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "754778a1-547d-4d74-84db-ad39f11c1a03")
 	)
 	(junction
 		(at 316.23 228.6)
@@ -12948,6 +12948,12 @@
 		(uuid "7afb08a5-7aec-42b0-aaa1-3ab61f933fa4")
 	)
 	(junction
+		(at 271.78 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d58c107-0ac9-4b7e-a29f-7de0afc40e66")
+	)
+	(junction
 		(at 287.02 316.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12958,12 +12964,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7dc23b23-7323-4d4b-97f3-9941174de87f")
-	)
-	(junction
-		(at 100.33 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8161ce36-c8a0-4283-b670-74692ad87d58")
 	)
 	(junction
 		(at 91.44 283.21)
@@ -13036,6 +13036,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e36ca6d-6d1c-4768-8afa-ea610cd7edb0")
+	)
+	(junction
+		(at 241.3 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e712d9a-b206-4652-be74-f1305a5a730e")
+	)
+	(junction
+		(at 149.86 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f288199-82bd-4170-bb64-13cb3a9273de")
 	)
 	(junction
 		(at 640.08 491.49)
@@ -13128,6 +13140,12 @@
 		(uuid "a004fc70-0121-42ea-b3f5-366af4631e03")
 	)
 	(junction
+		(at 77.47 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1c5039a-1ebb-433e-a8df-34002695a918")
+	)
+	(junction
 		(at 490.22 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13138,12 +13156,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2e50949-75ac-4fca-bb7b-40e625df125c")
-	)
-	(junction
-		(at 130.81 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a6084b14-1eaa-499d-8b85-3d35bffb8575")
 	)
 	(junction
 		(at 673.1 326.39)
@@ -13162,12 +13174,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a87b4ec9-407f-466a-816b-28832fa61b4a")
-	)
-	(junction
-		(at 100.33 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a8c21223-d625-4857-9a53-8d3b55e7845a")
 	)
 	(junction
 		(at 690.88 466.09)
@@ -13230,6 +13236,12 @@
 		(uuid "b924cdbb-88cf-4957-aa0e-b05e0d708eb9")
 	)
 	(junction
+		(at 100.33 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9c390ef-49cb-4fe5-bd84-e894e0e63d34")
+	)
+	(junction
 		(at 353.06 455.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13240,6 +13252,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc2eb810-2f8c-4a01-ac95-f34954f9aff3")
+	)
+	(junction
+		(at 241.3 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bdff90fa-7df0-49e8-89bb-38fe1e30d8b3")
 	)
 	(junction
 		(at 506.73 478.79)
@@ -13308,7 +13326,7 @@
 		(uuid "d79087a6-a492-491c-9cc5-bef3b9125132")
 	)
 	(junction
-		(at 703.58 162.56)
+		(at 697.23 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d9a5e622-60fb-4f12-80fc-899d1ce2d406")
@@ -13320,7 +13338,7 @@
 		(uuid "daf6a68e-5eb9-444f-8194-36ba1b70e869")
 	)
 	(junction
-		(at 703.58 149.86)
+		(at 697.23 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db762a2c-23de-4010-b7d6-c388d0da9572")
@@ -13362,28 +13380,16 @@
 		(uuid "e2db4325-5cb6-4d7f-8946-8a33a16e3695")
 	)
 	(junction
-		(at 241.3 170.18)
+		(at 77.47 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e5f9181f-26c5-4d20-b0f1-cb2722784fb9")
+		(uuid "e9bb5013-8d6f-4643-9959-50d0966c6508")
 	)
 	(junction
 		(at 685.8 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec2568b5-8ff7-4867-bd60-8bf7d777421a")
-	)
-	(junction
-		(at 149.86 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed62034c-b0e9-4147-8b13-f30613d435fc")
-	)
-	(junction
-		(at 227.33 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee9ae4d4-9fcb-458a-a573-e5c68c147327")
 	)
 	(junction
 		(at 212.09 170.18)
@@ -13402,12 +13408,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f398b19b-4713-4452-8e28-204103277d58")
-	)
-	(junction
-		(at 147.32 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f4516703-6f78-47eb-bb7c-20efd05c2efe")
 	)
 	(junction
 		(at 358.14 129.54)
@@ -13498,12 +13498,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe090b80-9438-4c82-b08e-d378159d8bfa")
-	)
-	(junction
-		(at 77.47 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fe4b3074-74b3-4681-93a1-35f0da3945e0")
 	)
 	(junction
 		(at 683.26 326.39)
@@ -13797,7 +13791,7 @@
 	)
 	(wire
 		(pts
-			(xy 680.72 171.45) (xy 680.72 173.99)
+			(xy 674.37 172.72) (xy 674.37 175.26)
 		)
 		(stroke
 			(width 0)
@@ -13984,16 +13978,6 @@
 			(type default)
 		)
 		(uuid "03e2d480-c06b-4577-af46-c3990279fbbc")
-	)
-	(wire
-		(pts
-			(xy 271.78 151.13) (xy 271.78 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "044043fc-89e7-4d15-ae62-50546eac6fa5")
 	)
 	(polyline
 		(pts
@@ -15397,7 +15381,7 @@
 	)
 	(wire
 		(pts
-			(xy 712.47 149.86) (xy 703.58 149.86)
+			(xy 706.12 151.13) (xy 697.23 151.13)
 		)
 		(stroke
 			(width 0)
@@ -15987,7 +15971,7 @@
 	)
 	(wire
 		(pts
-			(xy 680.72 139.7) (xy 703.58 139.7)
+			(xy 674.37 140.97) (xy 697.23 140.97)
 		)
 		(stroke
 			(width 0)
@@ -16427,7 +16411,7 @@
 	)
 	(wire
 		(pts
-			(xy 695.96 160.02) (xy 695.96 162.56)
+			(xy 689.61 161.29) (xy 689.61 163.83)
 		)
 		(stroke
 			(width 0)
@@ -16447,7 +16431,7 @@
 	)
 	(wire
 		(pts
-			(xy 695.96 162.56) (xy 703.58 162.56)
+			(xy 689.61 163.83) (xy 697.23 163.83)
 		)
 		(stroke
 			(width 0)
@@ -17097,7 +17081,7 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 163.83) (xy 678.18 171.45)
+			(xy 671.83 165.1) (xy 671.83 172.72)
 		)
 		(stroke
 			(width 0)
@@ -17207,7 +17191,7 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 171.45) (xy 680.72 171.45)
+			(xy 671.83 172.72) (xy 674.37 172.72)
 		)
 		(stroke
 			(width 0)
@@ -17987,7 +17971,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 147.32) (xy 271.78 151.13)
+			(xy 271.78 147.32) (xy 271.78 156.21)
 		)
 		(stroke
 			(width 0)
@@ -18317,7 +18301,7 @@
 	)
 	(wire
 		(pts
-			(xy 680.72 139.7) (xy 680.72 146.05)
+			(xy 674.37 140.97) (xy 674.37 147.32)
 		)
 		(stroke
 			(width 0)
@@ -18867,7 +18851,7 @@
 	)
 	(wire
 		(pts
-			(xy 703.58 162.56) (xy 712.47 162.56)
+			(xy 697.23 163.83) (xy 706.12 163.83)
 		)
 		(stroke
 			(width 0)
@@ -19557,7 +19541,7 @@
 	)
 	(wire
 		(pts
-			(xy 680.72 134.62) (xy 680.72 139.7)
+			(xy 674.37 135.89) (xy 674.37 140.97)
 		)
 		(stroke
 			(width 0)
@@ -19687,7 +19671,7 @@
 	)
 	(wire
 		(pts
-			(xy 712.47 162.56) (xy 712.47 160.02)
+			(xy 706.12 163.83) (xy 706.12 161.29)
 		)
 		(stroke
 			(width 0)
@@ -19937,7 +19921,7 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 139.7) (xy 680.72 139.7)
+			(xy 671.83 140.97) (xy 674.37 140.97)
 		)
 		(stroke
 			(width 0)
@@ -20027,7 +20011,7 @@
 	)
 	(wire
 		(pts
-			(xy 703.58 149.86) (xy 695.96 149.86)
+			(xy 697.23 151.13) (xy 689.61 151.13)
 		)
 		(stroke
 			(width 0)
@@ -20427,7 +20411,7 @@
 	)
 	(wire
 		(pts
-			(xy 703.58 139.7) (xy 703.58 149.86)
+			(xy 697.23 140.97) (xy 697.23 151.13)
 		)
 		(stroke
 			(width 0)
@@ -21357,7 +21341,7 @@
 	)
 	(wire
 		(pts
-			(xy 703.58 171.45) (xy 703.58 162.56)
+			(xy 697.23 172.72) (xy 697.23 163.83)
 		)
 		(stroke
 			(width 0)
@@ -21387,7 +21371,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 151.13) (xy 271.78 151.13)
+			(xy 260.35 151.13) (xy 292.1 151.13)
 		)
 		(stroke
 			(width 0)
@@ -21677,7 +21661,7 @@
 	)
 	(wire
 		(pts
-			(xy 695.96 149.86) (xy 695.96 152.4)
+			(xy 689.61 151.13) (xy 689.61 153.67)
 		)
 		(stroke
 			(width 0)
@@ -21897,7 +21881,7 @@
 	)
 	(wire
 		(pts
-			(xy 680.72 171.45) (xy 703.58 171.45)
+			(xy 674.37 172.72) (xy 697.23 172.72)
 		)
 		(stroke
 			(width 0)
@@ -22037,7 +22021,7 @@
 	)
 	(wire
 		(pts
-			(xy 712.47 152.4) (xy 712.47 149.86)
+			(xy 706.12 153.67) (xy 706.12 151.13)
 		)
 		(stroke
 			(width 0)
@@ -22054,6 +22038,16 @@
 			(type solid)
 		)
 		(uuid "c7661432-d3d2-40ef-b880-61f824a4408e")
+	)
+	(wire
+		(pts
+			(xy 212.09 173.99) (xy 212.09 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7a833cf-f899-418a-bee3-87227d8500c6")
 	)
 	(wire
 		(pts
@@ -23067,7 +23061,7 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 139.7) (xy 678.18 146.05)
+			(xy 671.83 140.97) (xy 671.83 147.32)
 		)
 		(stroke
 			(width 0)
@@ -23847,7 +23841,7 @@
 	)
 	(wire
 		(pts
-			(xy 680.72 163.83) (xy 680.72 171.45)
+			(xy 674.37 165.1) (xy 674.37 172.72)
 		)
 		(stroke
 			(width 0)
@@ -23994,16 +23988,6 @@
 			(type solid)
 		)
 		(uuid "f503bbbd-7726-4833-9035-04ea0bfd6fea")
-	)
-	(wire
-		(pts
-			(xy 271.78 151.13) (xy 292.1 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5513dfa-5b58-43b2-a94f-ebbd9fd1f332")
 	)
 	(wire
 		(pts
@@ -26743,7 +26727,7 @@
 	)
 	(global_label "CSB"
 		(shape input)
-		(at 668.02 158.75 180)
+		(at 661.67 160.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -26755,7 +26739,7 @@
 		)
 		(uuid "6eadc83b-f6db-4011-b64b-635982aac945")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 661.2853 158.75 0)
+			(at 654.9353 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28642,7 +28626,7 @@
 	)
 	(global_label "SCK B"
 		(shape input)
-		(at 668.02 151.13 180)
+		(at 661.67 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -28654,7 +28638,7 @@
 		)
 		(uuid "b33f61e6-f06b-403a-83a7-65a3c64dad31")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 659.0477 151.13 0)
+			(at 652.6977 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28886,7 +28870,7 @@
 	)
 	(global_label "MOSI B"
 		(shape input)
-		(at 668.02 153.67 180)
+		(at 661.67 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -28898,7 +28882,7 @@
 		)
 		(uuid "bb9bc6af-f8f3-46c5-be48-4f4f3acd61b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 658.201 153.67 0)
+			(at 651.851 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30281,7 +30265,7 @@
 	)
 	(global_label "MISO B"
 		(shape input)
-		(at 668.02 156.21 180)
+		(at 661.67 157.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -30293,7 +30277,7 @@
 		)
 		(uuid "fa2c5eeb-188c-4792-8983-f564151cfc22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 658.201 156.21 0)
+			(at 651.851 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30887,7 +30871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 688.34 454.66 0)
 			(hide yes)
 			(show_name no)
@@ -31810,7 +31794,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 695.96 156.21 0)
+		(at 689.61 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31820,7 +31804,7 @@
 		(dnp no)
 		(uuid "0ccaa540-ae2f-497b-9cc8-3b6929cd1162")
 		(property "Reference" "C72"
-			(at 696.468 154.178 0)
+			(at 690.118 155.448 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31831,7 +31815,7 @@
 			)
 		)
 		(property "Value" "1uf"
-			(at 696.722 158.496 0)
+			(at 690.372 159.766 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31842,7 +31826,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 696.9252 160.02 0)
+			(at 690.5752 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31853,7 +31837,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 695.96 156.21 0)
+			(at 689.61 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31864,7 +31848,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 695.96 156.21 0)
+			(at 689.61 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33168,7 +33152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 692.15 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -34239,7 +34223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 693.42 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -35204,7 +35188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 695.96 450.85 0)
 			(hide yes)
 			(show_name no)
@@ -35288,7 +35272,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 685.8 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -36246,7 +36230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 683.26 410.21 0)
 			(hide yes)
 			(show_name no)
@@ -36802,7 +36786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 448.31 530.86 0)
 			(hide yes)
 			(show_name no)
@@ -37286,7 +37270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 731.52 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -38243,7 +38227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:AT32F421G8U7"
+		(property "Footprint" "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm"
 			(at 190.5 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -38565,7 +38549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 335.28 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -39315,7 +39299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 690.88 406.4 0)
 			(hide yes)
 			(show_name no)
@@ -39872,7 +39856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7A"
+		(property "Footprint" "Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
 			(at 589.28 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -41291,7 +41275,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 680.72 173.99 0)
+		(at 674.37 175.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -41301,7 +41285,7 @@
 		(dnp no)
 		(uuid "59d2309b-da5d-43b2-8d8a-0b39eeef4330")
 		(property "Reference" "#PWR0118"
-			(at 680.72 180.34 0)
+			(at 674.37 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41312,7 +41296,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 680.72 177.546 0)
+			(at 674.37 178.816 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41322,7 +41306,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 680.72 173.99 0)
+			(at 674.37 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41333,7 +41317,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 680.72 173.99 0)
+			(at 674.37 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41344,7 +41328,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 680.72 173.99 0)
+			(at 674.37 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41974,7 +41958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 339.09 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -42871,7 +42855,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 712.47 156.21 0)
+		(at 706.12 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -42881,7 +42865,7 @@
 		(dnp no)
 		(uuid "6bd4f1d7-b375-4dad-9290-23a23109c88c")
 		(property "Reference" "C73"
-			(at 713.232 153.67 0)
+			(at 706.882 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -42892,7 +42876,7 @@
 			)
 		)
 		(property "Value" "0.1uf"
-			(at 713.486 158.75 0)
+			(at 707.136 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -42903,7 +42887,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 713.4352 160.02 0)
+			(at 707.0852 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42914,7 +42898,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 712.47 156.21 0)
+			(at 706.12 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42925,7 +42909,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 712.47 156.21 0)
+			(at 706.12 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44171,7 +44155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 330.2 501.65 0)
 			(hide yes)
 			(show_name no)
@@ -44617,7 +44601,7 @@
 	)
 	(symbol
 		(lib_id "Sensor_Pressure:BMP280")
-		(at 678.18 156.21 0)
+		(at 671.83 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -44628,7 +44612,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bc26c47-3a3d-4e53-a0d4-df08530dd48e")
 		(property "Reference" "U15"
-			(at 684.53 153.6699 0)
+			(at 678.18 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -44639,7 +44623,7 @@
 			)
 		)
 		(property "Value" "BMP280"
-			(at 684.53 156.2099 0)
+			(at 678.18 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -44650,7 +44634,7 @@
 			)
 		)
 		(property "Footprint" "Package_LGA:Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering"
-			(at 678.18 173.99 0)
+			(at 671.83 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44661,7 +44645,7 @@
 			)
 		)
 		(property "Datasheet" "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf"
-			(at 678.18 156.21 0)
+			(at 671.83 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44672,7 +44656,7 @@
 			)
 		)
 		(property "Description" "Absolute Barometric Pressure Sensor, LGA-8"
-			(at 678.18 156.21 0)
+			(at 671.83 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45430,7 +45414,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 680.72 134.62 0)
+		(at 674.37 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -45441,7 +45425,7 @@
 		(fields_autoplaced yes)
 		(uuid "821f3c62-e30b-461f-b40e-10865bd1cb00")
 		(property "Reference" "#PWR0117"
-			(at 680.72 138.43 0)
+			(at 674.37 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45452,7 +45436,7 @@
 			)
 		)
 		(property "Value" "VDD33"
-			(at 680.72 129.54 0)
+			(at 674.37 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -45462,7 +45446,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 680.72 134.62 0)
+			(at 674.37 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45473,7 +45457,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 680.72 134.62 0)
+			(at 674.37 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45484,7 +45468,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 680.72 134.62 0)
+			(at 674.37 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45697,7 +45681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:AT32F421G8U7"
+		(property "Footprint" "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm"
 			(at 187.96 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -46930,7 +46914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 95.25 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -47407,7 +47391,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 694.69 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -47569,7 +47553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 336.55 496.57 0)
 			(hide yes)
 			(show_name no)
@@ -48608,7 +48592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 685.8 502.92 0)
 			(hide yes)
 			(show_name no)
@@ -49272,7 +49256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 337.82 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -50557,7 +50541,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 212.09 170.18 0)
+		(at 212.09 173.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -50567,7 +50551,7 @@
 		(dnp no)
 		(uuid "a7b5e37d-8ccc-4cec-ad72-f63aa9a4a5a5")
 		(property "Reference" "#PWR014"
-			(at 212.09 176.53 0)
+			(at 212.09 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50578,7 +50562,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 212.09 173.99 0)
+			(at 212.09 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -50588,7 +50572,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 170.18 0)
+			(at 212.09 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50599,7 +50583,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 170.18 0)
+			(at 212.09 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50610,7 +50594,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 170.18 0)
+			(at 212.09 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50665,7 +50649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:AT32F421G8U7"
+		(property "Footprint" "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm"
 			(at 546.1 300.99 0)
 			(hide yes)
 			(show_name no)
@@ -51060,7 +51044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 330.2 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -51143,7 +51127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7A"
+		(property "Footprint" "Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
 			(at 529.59 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -52014,7 +51998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 332.74 453.39 0)
 			(hide yes)
 			(show_name no)
@@ -52500,7 +52484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 327.66 408.94 0)
 			(hide yes)
 			(show_name no)
@@ -52821,7 +52805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 690.88 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -52983,7 +52967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:AT32F421G8U7"
+		(property "Footprint" "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm"
 			(at 543.56 480.06 0)
 			(hide yes)
 			(show_name no)
@@ -53145,7 +53129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 688.34 323.85 0)
 			(hide yes)
 			(show_name no)
@@ -54098,7 +54082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 335.28 405.13 0)
 			(hide yes)
 			(show_name no)
@@ -54963,7 +54947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 450.85 351.79 0)
 			(hide yes)
 			(show_name no)
@@ -55446,7 +55430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 92.71 529.59 0)
 			(hide yes)
 			(show_name no)
@@ -56460,7 +56444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 698.5 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -56788,7 +56772,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 340.36 449.58 0)
 			(hide yes)
 			(show_name no)
@@ -58964,7 +58948,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 692.15 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -59048,7 +59032,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 342.9 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -59926,7 +59910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:Diodes_PowerDI3333-8"
 			(at 332.74 327.66 0)
 			(hide yes)
 			(show_name no)
