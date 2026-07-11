@@ -670,3 +670,8 @@ this is not a normal man look how badass he is , soo professional
 i wonder how much time took hin to do this
 
 <img width="900" height="563" alt="image" src="https://github.com/user-attachments/assets/aecf3c58-99f6-4741-a602-e501a54c01e3" />
+
+u what, my laptop is too weird if any app stops responding i trys to restart the app by task amnager but task manager also stops responding, heelish hell
+
+just completed all the footprints now the next part is my favrouit THE ROUTING part, i love this.
+
