@@ -715,3 +715,12 @@ first phase done
 <img width="1246" height="707" alt="image" src="https://github.com/user-attachments/assets/6da37170-b673-4122-a9d7-dd1fa2c17f92" />
 
 hey i had a SD in the shematics i think i should delete it cuz i dont find any crusial use case
+
+
+bro i deleted the SD card got this in return gify, tf
+
+<img width="636" height="50" alt="image" src="https://github.com/user-attachments/assets/cee7e567-da5e-4f33-8304-0876e7c2e3fa" />
+
+can u see the amount of work done, and still going ggggggggsssssssssssssssss
+
+<img width="547" height="402" alt="image" src="https://github.com/user-attachments/assets/de40d29f-3442-41ae-9365-05c9e8abacd7" />
