@@ -687,3 +687,8 @@ now idk what design i should take for PCB like a small square or a rectangular, 
 
 how much i searched the square one is better, but will still add the small req in it, soo it will beeasy to route.
  i made an rough one , to see if it fits ir not and it is fitting perfectly in 50X50
+
+
+i have to make new design where all components will setell the best way.
+
+<img width="480" height="461" alt="image" src="https://github.com/user-attachments/assets/649658fd-5c96-40e2-a74b-617c08d87265" />
