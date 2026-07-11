@@ -701,14 +701,16 @@ now i have very good design but it is not workking, idk why         SOB
 
 yayayyayayayayay
 finally
+
 <img width="787" height="538" alt="image" src="https://github.com/user-attachments/assets/4918ae96-b4f7-451b-89c5-6783eeaa1a0b" />
 
-
 i am placinf components very slowly and precisely, cud i dont wan tany mess i will take time but make it best
-
 
 first phase done
 
 <img width="863" height="525" alt="image" src="https://github.com/user-attachments/assets/c6fe86c7-2661-4e57-bb40-80a6e6b8d2eb" />
 
 <img width="788" height="509" alt="image" src="https://github.com/user-attachments/assets/54244590-acd4-4f8b-b5eb-93df503b8544" />
+
+<img width="1246" height="707" alt="image" src="https://github.com/user-attachments/assets/6da37170-b673-4122-a9d7-dd1fa2c17f92" />
+
