@@ -3,4 +3,8 @@
 	(lib (name "ME6231A33PG") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/ME6231A33PG.pretty") (options "") (descr ""))
 	(lib (name "Library") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/ME6231A33PG/Library.pretty") (options "") (descr ""))
 	(lib (name "AT32F421G8U7") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/AT32F421G8U7/AT32F421G8U7.pretty") (options "") (descr ""))
+	(lib (name "XT60PW-M") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/XT60PW-M/XT60PW-M.mod") (options "") (descr ""))
+	(lib (name "FD6288Q") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/FD6288Q/FD6288Q.mod") (options "") (descr ""))
+	(lib (name "TSX-3225") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/TSX-3225/TSX-3225.mod") (options "") (descr ""))
+	(lib (name "AT7456E") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/AT7456E/KiCad/AT7456E.mod") (options "") (descr ""))
 )
