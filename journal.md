@@ -607,3 +607,10 @@ bye
 
 bye for today.
 <p align="center">THE END</p>
+
+
+### 11/07/2036
+
+## TOPIC: finshing the schemtics and solveing all error and moving to MCB.
+
+so last day i completd the schematic, and was solveing the error but 1 error remains, and its a bit confusing.
