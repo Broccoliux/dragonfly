@@ -601,3 +601,19 @@ damn man stuck on the last error
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08de6f52-632a-4ba7-b679-4e662d3b48e2" />
 
+SO this is it for today.
+
+bye
+
+bye for today.
+<p align="center">THE END</p>
+
+
+### 11/07/2036
+
+## TOPIC: finshing the schemtics and solveing all error and moving to MCB.
+
+so last day i completd the schematic, and was solveing the error but 1 error remains, and its a bit confusing.
+
+
+now bro everything is done in schematics all ERC error are gone also there where some hidden error is the warining i have solved them too, so next i will be going to assign the footpints to the all components.
