@@ -617,3 +617,7 @@ so last day i completd the schematic, and was solveing the error but 1 error rem
 
 
 now bro everything is done in schematics all ERC error are gone also there where some hidden error is the warining i have solved them too, so next i will be going to assign the footpints to the all components.
+
+bro i messed up on battery connections, i used JST that is for low currents but i didnt know that for drones we need XT60PW-M to handel that much current.
+
+also why tf battery are soo halla expensive
