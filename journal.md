@@ -743,4 +743,6 @@ for the channels i have to bee soo precise so it will be easy to route them, i h
 
 <img width="456" height="418" alt="image" src="https://github.com/user-attachments/assets/cc631cd7-b8f7-489e-8245-8d1484d58010" />
 
+exactly as we wanted ayyayayayay
 
+<img width="956" height="556" alt="image" src="https://github.com/user-attachments/assets/cefa9e45-0938-4fec-8c1c-2cdff929f6bb" />
