@@ -811,3 +811,6 @@ moving to the route tracing, but before that will be adding the layers, so i am 
 here is how it will be
 
 <img width="848" height="355" alt="image" src="https://github.com/user-attachments/assets/0a8d8175-80a3-41b1-a7cc-fd1810cb39a7" />
+
+
+idk, if i am forgeting how to add the layers or KICAD have been changed
