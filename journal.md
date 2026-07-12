@@ -777,3 +777,5 @@ finally did it:
 <img width="712" height="541" alt="image" src="https://github.com/user-attachments/assets/b7e286b8-1947-4b50-a30b-4f587c424cd4" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0ecb6707-420e-434f-87f2-45373eb9b389" />
+
+bro i am still confused about our mossets, idk if they ar ecorrect or not. i have a bad feeling so i am checking it one last time.
