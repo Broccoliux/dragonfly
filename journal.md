@@ -804,3 +804,10 @@ i did all the placment again, so its will be easy to route. soo alll ESC channel
 also i have adde dhte barometer in the B.cu center so it will be better in reading the data.
 
 <img width="724" height="588" alt="image" src="https://github.com/user-attachments/assets/f3314c5b-5312-4698-bfe0-cafc1e1b2449" />
+
+
+moving to the route tracing, but before that will be adding the layers, so i am going with 4 layer PCB.
+
+here is how it will be
+
+<img width="848" height="355" alt="image" src="https://github.com/user-attachments/assets/0a8d8175-80a3-41b1-a7cc-fd1810cb39a7" />
