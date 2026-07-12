@@ -7,4 +7,5 @@
 	(lib (name "FD6288Q") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/FD6288Q/FD6288Q.mod") (options "") (descr ""))
 	(lib (name "TSX-3225") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/TSX-3225/TSX-3225.mod") (options "") (descr ""))
 	(lib (name "AT7456E") (type "Legacy") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/AT7456E/KiCad/AT7456E.mod") (options "") (descr ""))
+	(lib (name "KiCad") (type "KiCad") (uri "F:/OneDrive/Desktop/cloned repos/dragonfly/resources/symbols/AT7456E/KiCad.pretty") (options "") (descr ""))
 )
