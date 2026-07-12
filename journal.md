@@ -724,3 +724,56 @@ bro i deleted the SD card got this in return gify, tf
 can u see the amount of work done, and still going ggggggggsssssssssssssssss
 
 <img width="547" height="402" alt="image" src="https://github.com/user-attachments/assets/de40d29f-3442-41ae-9365-05c9e8abacd7" />
+
+
+bye for today.
+<p align="center">THE END</p>
+
+### 012/07/2036
+
+## TOPIC: trace routing
+
+last day i finalized the schematics and today i am will be routhing.
+
+i am arranging the set of components as accurate as possible to keep drone stabel and so barometer can work perfectly. 
+
+so i will be placcing complete 4 esc channels on back and other will be on from 
+
+for the channels i have to bee soo precise so it will be easy to route them, i have done 1 channel now i will place other on it anf then just flip then this i will have all 5 channels in same accurate structure.
+
+<img width="456" height="418" alt="image" src="https://github.com/user-attachments/assets/cc631cd7-b8f7-489e-8245-8d1484d58010" />
+
+exactly as we wanted ayyayayayay
+
+<img width="956" height="556" alt="image" src="https://github.com/user-attachments/assets/cefa9e45-0938-4fec-8c1c-2cdff929f6bb" />
+
+<img width="947" height="480" alt="image" src="https://github.com/user-attachments/assets/e204133e-8a9c-4417-9578-8670a21e58d1" />
+
+i was think of replacing the JST with the test pads if these can flash as JST. cuzz JST is taking so much space.
+
+gonna add the test points footprints, this these wont take much space and they will be waightless. 
+WINWIN
+so i am going to use the test pads here how they looks
+
+<img width="578" height="276" alt="image" src="https://github.com/user-attachments/assets/0cf88b65-475a-44fd-90bd-1dcf9c4ad26e" />
+
+Much better then before
+
+<img width="392" height="377" alt="image" src="https://github.com/user-attachments/assets/2aa9a04f-29e4-47b1-8748-680979e71e71" />
+<img width="567" height="370" alt="image" src="https://github.com/user-attachments/assets/f8ca0490-83d3-4934-a30e-9f61aae5523b" />
+
+goiing soo good soo far yayayayyaya
+
+<img width="1064" height="608" alt="image" src="https://github.com/user-attachments/assets/6931779c-7270-48d7-b245-8aef94451f17" />
+<img width="947" height="568" alt="image" src="https://github.com/user-attachments/assets/8dbef08c-bc4e-49dc-ae21-2f6840342f75" />
+
+the method i am using for compoenents takes but work soo well, almost 100% accurate
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e2eb320d-5cdf-4b30-8d16-e460fe8c47fe" />
+
+
+finally did it:
+
+<img width="712" height="541" alt="image" src="https://github.com/user-attachments/assets/b7e286b8-1947-4b50-a30b-4f587c424cd4" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0ecb6707-420e-434f-87f2-45373eb9b389" />
