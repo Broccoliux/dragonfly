@@ -779,3 +779,7 @@ finally did it:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0ecb6707-420e-434f-87f2-45373eb9b389" />
 
 bro i am still confused about our mossets, idk if they ar ecorrect or not. i have a bad feeling so i am checking it one last time.
+
+
+ok so my biggest stress is gone, i had very confusion on the MOSSETS but now it clered, but no i have to change few things in the schematics and PCB both, then routing,
+this project will be hardest thing i ever build, 
