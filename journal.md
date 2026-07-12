@@ -761,3 +761,10 @@ Much better then before
 
 <img width="392" height="377" alt="image" src="https://github.com/user-attachments/assets/2aa9a04f-29e4-47b1-8748-680979e71e71" />
 <img width="567" height="370" alt="image" src="https://github.com/user-attachments/assets/f8ca0490-83d3-4934-a30e-9f61aae5523b" />
+
+goiing soo good soo far yayayayyaya
+
+<img width="1064" height="608" alt="image" src="https://github.com/user-attachments/assets/6931779c-7270-48d7-b245-8aef94451f17" />
+<img width="1064" height="608" alt="image" src="https://github.com/user-attachments/assets/1e5d227d-acb3-41a1-9347-a990b8c9555c" />
+
+
