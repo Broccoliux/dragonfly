@@ -796,3 +796,11 @@ bro i locked the components now i dont know how to unlock them.
 
 
 BRO KICAD crashed and my component placment rest, fahhhhhhhhhh
+
+i did all the placment again, so its will be easy to route. soo alll ESC channel on B.cu and all other components are on F.cu
+
+<img width="747" height="579" alt="image" src="https://github.com/user-attachments/assets/9307379d-5f88-4243-b8e6-2ae0e9b061a5" />
+
+also i have adde dhte barometer in the B.cu center so it will be better in reading the data.
+
+<img width="724" height="588" alt="image" src="https://github.com/user-attachments/assets/f3314c5b-5312-4698-bfe0-cafc1e1b2449" />
