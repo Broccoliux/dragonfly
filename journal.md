@@ -724,3 +724,23 @@ bro i deleted the SD card got this in return gify, tf
 can u see the amount of work done, and still going ggggggggsssssssssssssssss
 
 <img width="547" height="402" alt="image" src="https://github.com/user-attachments/assets/de40d29f-3442-41ae-9365-05c9e8abacd7" />
+
+
+bye for today.
+<p align="center">THE END</p>
+
+### 012/07/2036
+
+## TOPIC: trace routing
+
+last day i finalized the schematics and today i am will be routhing.
+
+i am arranging the set of components as accurate as possible to keep drone stabel and so barometer can work perfectly. 
+
+so i will be placcing complete 4 esc channels on back and other will be on from 
+
+for the channels i have to bee soo precise so it will be easy to route them, i have done 1 channel now i will place other on it anf then just flip then this i will have all 5 channels in same accurate structure.
+
+<img width="456" height="418" alt="image" src="https://github.com/user-attachments/assets/cc631cd7-b8f7-489e-8245-8d1484d58010" />
+
+
