@@ -12887,6 +12887,12 @@
 		(uuid "0c4f4be1-a117-46d7-9067-ace0f123809c")
 	)
 	(junction
+		(at 350.52 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0eaf1316-8bcf-4313-98da-03a89e98bc55")
+	)
+	(junction
 		(at 501.65 219.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13821,12 +13827,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de784dfe-7c48-45e3-af99-dd20df1f23f0")
-	)
-	(junction
-		(at 350.52 237.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e1c173dd-ce10-4639-8723-5fa2ef98e64d")
 	)
 	(junction
 		(at 514.35 113.03)
@@ -18578,7 +18578,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 237.49) (xy 341.63 237.49)
+			(xy 337.82 237.49) (xy 340.36 237.49)
 		)
 		(stroke
 			(width 0)
@@ -18978,7 +18978,7 @@
 	)
 	(wire
 		(pts
-			(xy 349.25 237.49) (xy 350.52 237.49)
+			(xy 347.98 237.49) (xy 350.52 237.49)
 		)
 		(stroke
 			(width 0)
@@ -31349,7 +31349,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 349.758 502.666 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31664,7 +31664,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 352.552 329.438 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35428,7 +35428,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 705.612 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37663,7 +37663,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 705.612 504.698 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40116,7 +40116,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 708.152 325.628 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41055,7 +41055,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 352.552 454.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44133,7 +44133,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 703.072 411.48 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46924,7 +46924,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9111a597-65df-4357-a530-abd378dd60d0")
+			(uuid "9111a597-65df-4357-a530-abd378dd60d1")
 		)
 		(instances
 			(project "Dragonfly"
@@ -47177,7 +47177,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 345.44 237.49 90)
+		(at 344.17 237.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -47187,7 +47187,7 @@
 		(dnp no)
 		(uuid "8e2c173b-3ec6-445d-b26b-3c3ae8c4e519")
 		(property "Reference" "R26"
-			(at 340.868 236.474 90)
+			(at 339.598 236.474 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -47196,8 +47196,8 @@
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 350.012 236.728 90)
+		(property "Value" "0R"
+			(at 348.742 236.728 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -47207,7 +47207,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 345.44 239.268 90)
+			(at 344.17 239.268 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47218,7 +47218,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 345.44 237.49 0)
+			(at 344.17 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47229,7 +47229,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 345.44 237.49 0)
+			(at 344.17 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52755,7 +52755,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 347.472 410.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54866,7 +54866,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9111a597-65df-4357-a530-abd378dd60d0")
+			(uuid "9111a597-65df-4357-a530-abd378dd60d2")
 		)
 		(instances
 			(project "Dragonfly"
@@ -55686,7 +55686,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 355.092 281.178 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55845,7 +55845,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 710.692 277.368 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59038,7 +59038,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9111a597-65df-4357-a530-abd378dd60d0")
+			(uuid "9111a597-65df-4357-a530-abd378dd60d3")
 		)
 		(instances
 			(project "Dragonfly"
@@ -60825,7 +60825,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0R"
 			(at 708.152 456.438 90)
 			(show_name no)
 			(do_not_autoplace no)
