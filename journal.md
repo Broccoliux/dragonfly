@@ -746,3 +746,7 @@ for the channels i have to bee soo precise so it will be easy to route them, i h
 exactly as we wanted ayyayayayay
 
 <img width="956" height="556" alt="image" src="https://github.com/user-attachments/assets/cefa9e45-0938-4fec-8c1c-2cdff929f6bb" />
+
+<img width="947" height="480" alt="image" src="https://github.com/user-attachments/assets/e204133e-8a9c-4417-9578-8670a21e58d1" />
+
+i was think of replacing the JST with the test pads if these can flash as JST. cuzz JST is taking so much space.
