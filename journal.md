@@ -751,6 +751,14 @@ exactly as we wanted ayyayayayay
 
 i was think of replacing the JST with the test pads if these can flash as JST. cuzz JST is taking so much space.
 
+gonna add the test points footprints, this these wont take much space and they will be waightless. 
+WINWIN
+
+Much better then before
+
+<img width="392" height="377" alt="image" src="https://github.com/user-attachments/assets/2aa9a04f-29e4-47b1-8748-680979e71e71" />
+<img width="567" height="370" alt="image" src="https://github.com/user-attachments/assets/f8ca0490-83d3-4934-a30e-9f61aae5523b" />
+
 
 so i am going to use the test pads here how they looks
 
