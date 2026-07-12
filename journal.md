@@ -783,3 +783,8 @@ bro i am still confused about our mossets, idk if they ar ecorrect or not. i hav
 
 ok so my biggest stress is gone, i had very confusion on the MOSSETS but now it clered, but no i have to change few things in the schematics and PCB both, then routing,
 this project will be hardest thing i ever build, 
+
+
+finally the stress hthing is now gone. yyayyayaya
+
+<img width="661" height="580" alt="image" src="https://github.com/user-attachments/assets/e9ec37cb-057e-4cfa-be16-2bfbc9c02ba1" />
