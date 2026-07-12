@@ -765,6 +765,5 @@ Much better then before
 goiing soo good soo far yayayayyaya
 
 <img width="1064" height="608" alt="image" src="https://github.com/user-attachments/assets/6931779c-7270-48d7-b245-8aef94451f17" />
-<img width="1064" height="608" alt="image" src="https://github.com/user-attachments/assets/1e5d227d-acb3-41a1-9347-a990b8c9555c" />
-
+<img width="947" height="568" alt="image" src="https://github.com/user-attachments/assets/8dbef08c-bc4e-49dc-ae21-2f6840342f75" />
 
