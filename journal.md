@@ -777,3 +777,40 @@ finally did it:
 <img width="712" height="541" alt="image" src="https://github.com/user-attachments/assets/b7e286b8-1947-4b50-a30b-4f587c424cd4" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0ecb6707-420e-434f-87f2-45373eb9b389" />
+
+bro i am still confused about our mossets, idk if they ar ecorrect or not. i have a bad feeling so i am checking it one last time.
+
+
+ok so my biggest stress is gone, i had very confusion on the MOSSETS but now it clered, but no i have to change few things in the schematics and PCB both, then routing,
+this project will be hardest thing i ever build, 
+
+
+finally the stress hthing is now gone. yyayyayaya
+
+<img width="661" height="580" alt="image" src="https://github.com/user-attachments/assets/e9ec37cb-057e-4cfa-be16-2bfbc9c02ba1" />
+
+
+bro i locked the components now i dont know how to unlock them.
+
+<img width="682" height="560" alt="image" src="https://github.com/user-attachments/assets/024431b9-efe9-4426-9581-d804e14087a5" />
+
+
+BRO KICAD crashed and my component placment rest, fahhhhhhhhhh
+
+i did all the placment again, so its will be easy to route. soo alll ESC channel on B.cu and all other components are on F.cu
+
+<img width="747" height="579" alt="image" src="https://github.com/user-attachments/assets/9307379d-5f88-4243-b8e6-2ae0e9b061a5" />
+
+also i have adde dhte barometer in the B.cu center so it will be better in reading the data.
+
+<img width="724" height="588" alt="image" src="https://github.com/user-attachments/assets/f3314c5b-5312-4698-bfe0-cafc1e1b2449" />
+
+
+moving to the route tracing, but before that will be adding the layers, so i am going with 4 layer PCB.
+
+here is how it will be
+
+<img width="848" height="355" alt="image" src="https://github.com/user-attachments/assets/0a8d8175-80a3-41b1-a7cc-fd1810cb39a7" />
+
+
+idk, if i am forgeting how to add the layers or KICAD have been changed
