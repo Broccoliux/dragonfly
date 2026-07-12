@@ -788,3 +788,11 @@ this project will be hardest thing i ever build,
 finally the stress hthing is now gone. yyayyayaya
 
 <img width="661" height="580" alt="image" src="https://github.com/user-attachments/assets/e9ec37cb-057e-4cfa-be16-2bfbc9c02ba1" />
+
+
+bro i locked the components now i dont know how to unlock them.
+
+<img width="682" height="560" alt="image" src="https://github.com/user-attachments/assets/024431b9-efe9-4426-9581-d804e14087a5" />
+
+
+BRO KICAD crashed and my component placment rest, fahhhhhhhhhh
