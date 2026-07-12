@@ -770,3 +770,10 @@ goiing soo good soo far yayayayyaya
 the method i am using for compoenents takes but work soo well, almost 100% accurate
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e2eb320d-5cdf-4b30-8d16-e460fe8c47fe" />
+
+
+finally did it:
+
+<img width="712" height="541" alt="image" src="https://github.com/user-attachments/assets/b7e286b8-1947-4b50-a30b-4f587c424cd4" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0ecb6707-420e-434f-87f2-45373eb9b389" />
