@@ -750,3 +750,8 @@ exactly as we wanted ayyayayayay
 <img width="947" height="480" alt="image" src="https://github.com/user-attachments/assets/e204133e-8a9c-4417-9578-8670a21e58d1" />
 
 i was think of replacing the JST with the test pads if these can flash as JST. cuzz JST is taking so much space.
+
+
+so i am going to use the test pads here how they looks
+
+<img width="578" height="276" alt="image" src="https://github.com/user-attachments/assets/0cf88b65-475a-44fd-90bd-1dcf9c4ad26e" />
