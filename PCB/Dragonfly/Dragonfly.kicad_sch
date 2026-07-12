@@ -12839,6 +12839,12 @@
 		(uuid "00fae54f-212e-4e34-889a-e7c72eb33704")
 	)
 	(junction
+		(at 330.2 455.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "048c1981-bbcd-47b4-896b-4da4e80108d5")
+	)
+	(junction
 		(at 457.2 266.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12959,6 +12965,12 @@
 		(uuid "18f98c35-1039-44fd-9003-49f4b2ddde26")
 	)
 	(junction
+		(at 490.22 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a36677c-5e21-41dc-a5b7-bdbcfdfdce99")
+	)
+	(junction
 		(at 130.81 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12995,12 +13007,6 @@
 		(uuid "212140f8-1196-4ad1-9d59-2a55668af80a")
 	)
 	(junction
-		(at 330.2 455.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "21582c1d-3835-4966-8582-64650b3b9303")
-	)
-	(junction
 		(at 111.76 276.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13017,12 +13023,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22147112-9128-495c-ad50-451861d4d0af")
-	)
-	(junction
-		(at 335.28 464.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "249e8d1c-8a17-4f45-a1ea-2b048e4dbca0")
 	)
 	(junction
 		(at 314.96 504.19)
@@ -13133,12 +13133,6 @@
 		(uuid "42dd423e-614e-431a-8bd6-2e79bc3eb6ce")
 	)
 	(junction
-		(at 490.22 219.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "440e1dd0-bb2e-4696-abcf-e1ce56df38e6")
-	)
-	(junction
 		(at 706.12 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13227,6 +13221,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5296413b-1953-498c-8c45-b60a4fdd64f2")
+	)
+	(junction
+		(at 490.22 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52a48887-1075-4aa7-9935-008747ea3a0e")
 	)
 	(junction
 		(at 642.62 320.04)
@@ -13601,12 +13601,6 @@
 		(uuid "a1c5039a-1ebb-433e-a8df-34002695a918")
 	)
 	(junction
-		(at 490.22 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2a97986-a41b-4bfb-831c-f2b318f4fb26")
-	)
-	(junction
 		(at 464.82 452.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13719,6 +13713,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfbbbad3-14ec-4dda-8c37-b4d2a0d31a5c")
+	)
+	(junction
+		(at 335.28 464.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c21c29eb-0c8a-4204-a6a9-ee1af758c0ac")
 	)
 	(junction
 		(at 468.63 48.26)
