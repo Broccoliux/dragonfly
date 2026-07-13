@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/add2012b-4fb8-4e93-8723-d21cdb6893a8" />## ALL daily journals will can be seen here.
+## ALL daily journals will can be seen here.
 
 
 ### 06/07/2036
