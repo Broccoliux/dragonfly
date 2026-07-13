@@ -814,3 +814,10 @@ here is how it will be
 
 
 idk, if i am forgeting how to add the layers or KICAD have been changed
+
+bye for today.
+<p align="center">THE END</p>
+
+### 13/07/2036
+
+## TOPIC: routing
