@@ -828,3 +828,11 @@ bye for today.
  BTW check out how cool it looks.
 
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c1e7a82-7448-45d6-8a4e-6fe75bf6958d" />
+bro oly one ESC channel got soo much time and there is still 3 more to go, and they wil be even harder cuz they have components at there back too
+
+<img width="651" height="584" alt="image" src="https://github.com/user-attachments/assets/d9cc0897-2a88-4a18-af30-44df083150f9" />
+
+
+tbh its looks cool right?
+
+<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/62e5f480-ff64-46ab-8f12-2e47fcec7c93" />
