@@ -841,3 +841,8 @@ tbh its looks cool right?
 idk how to explain, but this is serious i was roting normallay and internet was gone, i cant explain how hard things i did and the sad thing it didnt get recored no a single min, and now internet is back so i am writing this. just see this, i put more then 5hrs on single ESC channel and after that it is completed. it was tooo hard.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5a9d1b04-ac05-4843-8da9-702429baa2bc" />
+
+
+ routing was almost conmpleted just rined the DRC and the KICAd crashed, i hope progess is saved.
+
+ 
