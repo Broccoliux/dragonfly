@@ -837,3 +837,16 @@ bro oly one ESC channel got soo much time and there is still 3 more to go, and t
 tbh its looks cool right?
 
 <img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/62e5f480-ff64-46ab-8f12-2e47fcec7c93" />
+
+idk how to explain, but this is serious i was roting normallay and internet was gone, i cant explain how hard things i did and the sad thing it didnt get recored no a single min, and now internet is back so i am writing this. just see this, i put more then 5hrs on single ESC channel and after that it is completed. it was tooo hard.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5a9d1b04-ac05-4843-8da9-702429baa2bc" />
+
+
+ routing was almost conmpleted just rined the DRC and the KICAd crashed, i hope progess is saved.
+
+ <img width="771" height="605" alt="image" src="https://github.com/user-attachments/assets/cc0a007f-4855-4546-9208-d479c67d48e8" />
+
+<img width="833" height="582" alt="image" src="https://github.com/user-attachments/assets/d57b9bbb-674c-4d44-a083-e2fc51b87d99" />
+
+<img width="1012" height="609" alt="image" src="https://github.com/user-attachments/assets/4136260e-7976-4cd3-b683-36cbe746d3b5" />
