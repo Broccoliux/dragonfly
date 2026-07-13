@@ -32748,7 +32748,7 @@
 				)
 			)
 		)
-		(property "Value" "VDD"
+		(property "Value" "VDD33"
 			(at 343.916 147.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43577,7 +43577,7 @@
 				)
 			)
 		)
-		(property "Value" "VDD"
+		(property "Value" "VDD33"
 			(at 347.98 129.5399 90)
 			(show_name no)
 			(do_not_autoplace no)
