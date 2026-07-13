@@ -1,4 +1,4 @@
-## ALL daily journals will can be seen here.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/add2012b-4fb8-4e93-8723-d21cdb6893a8" />## ALL daily journals will can be seen here.
 
 
 ### 06/07/2036
@@ -837,3 +837,7 @@ bro oly one ESC channel got soo much time and there is still 3 more to go, and t
 tbh its looks cool right?
 
 <img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/62e5f480-ff64-46ab-8f12-2e47fcec7c93" />
+
+idk how to explain, but this is serious i was roting normallay and internet was gone, i cant explain how hard things i did and the sad thing it didnt get recored no a single min, and now internet is back so i am writing this. just see this, i put more then 5hrs on single ESC channel and after that it is completed. it was tooo hard.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5a9d1b04-ac05-4843-8da9-702429baa2bc" />
