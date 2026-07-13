@@ -860,3 +860,4 @@ its looks sooo coool, ooohhhhhhhhh my yesssssssssssssss
 <img width="737" height="590" alt="image" src="https://github.com/user-attachments/assets/84d35267-6cb5-448d-b53c-2693db116d0b" />
 
 
+aLL the CB work is done, now only 1 single eror
