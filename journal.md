@@ -821,3 +821,10 @@ bye for today.
 ### 13/07/2036
 
 ## TOPIC: routing
+
+ todays goal is to complete the routhing and all there PCB things then do the CAD for the drone and then submit the project before i sleep, or i cant sleep.
+ and today i wont be journaling much cuzz i need to lock in.
+
+ BTW check out how cool it looks.
+
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c1e7a82-7448-45d6-8a4e-6fe75bf6958d" />
