@@ -845,4 +845,8 @@ idk how to explain, but this is serious i was roting normallay and internet was 
 
  routing was almost conmpleted just rined the DRC and the KICAd crashed, i hope progess is saved.
 
- 
+ <img width="771" height="605" alt="image" src="https://github.com/user-attachments/assets/cc0a007f-4855-4546-9208-d479c67d48e8" />
+
+<img width="833" height="582" alt="image" src="https://github.com/user-attachments/assets/d57b9bbb-674c-4d44-a083-e2fc51b87d99" />
+
+<img width="1012" height="609" alt="image" src="https://github.com/user-attachments/assets/4136260e-7976-4cd3-b683-36cbe746d3b5" />
