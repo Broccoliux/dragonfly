@@ -850,3 +850,14 @@ idk how to explain, but this is serious i was roting normallay and internet was 
 <img width="833" height="582" alt="image" src="https://github.com/user-attachments/assets/d57b9bbb-674c-4d44-a083-e2fc51b87d99" />
 
 <img width="1012" height="609" alt="image" src="https://github.com/user-attachments/assets/4136260e-7976-4cd3-b683-36cbe746d3b5" />
+
+finally the PCB is completed. all the tarces are routed now and almost all error and wrings are gone, now kuct need to complete the GRC< 
+
+its looks sooo coool, ooohhhhhhhhh my yesssssssssssssss
+
+<img width="1157" height="672" alt="image" src="https://github.com/user-attachments/assets/d9ccad05-2fc5-433f-8724-3b65587b3c30" />
+<img width="1177" height="665" alt="image" src="https://github.com/user-attachments/assets/65f08bb4-97df-4e45-9b28-d3965de601f3" />
+<img width="737" height="590" alt="image" src="https://github.com/user-attachments/assets/84d35267-6cb5-448d-b53c-2693db116d0b" />
+
+
+aLL the CB work is done, now only 1 single eror
