@@ -867,3 +867,16 @@ my internet was gone so i was not able to journal, but i kept working and comple
 ### 14/07/2036
 
 ## TOPIC: CAD 
+
+
+i think we need bigger props.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e995613-f43f-4636-ade3-d5047a4115a7" />
+
+
+so i am not making all in one vody this will be in parts the main base and 4 arms, that why i am also adding the stabilizer for better flights, so it wont woble much.
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/da10d4da-c993-4c53-9ff2-d14b91662e7e" />
+
+
+so i ma switching from lapse to hacktime, setup in freecad, cuzz lapse sucks.
