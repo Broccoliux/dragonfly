@@ -880,3 +880,6 @@ so i am not making all in one vody this will be in parts the main base and 4 arm
 
 
 so i ma switching from lapse to hacktime, setup in freecad, cuzz lapse sucks.
+
+
+finally complted the cad also the internet is back and stable now, i used hacktime for freecad, cuz lapse is not working , so the next i will be woking on firmware, even i am not gonna build completed, cuz i will do that when i will get everything in my hands, so rn it will be more like a skeleton
