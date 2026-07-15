@@ -890,3 +890,8 @@ check this out
 
 
 about the frimware i dont have to write the frimware from scratch, there are alredy frist class porved out there online,i just need to configure them.
+
+
+so this gonna be my last journal, i have completed the project and no i just need to submit it.
+one last thing. 
+i have used ai while recording just cuz i difnt had any ooption left so i used it, dont detuct too much time.
