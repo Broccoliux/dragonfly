@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - Compte-rendu d'état du Processeur IGES
+*****************************************************************
+=================================================================
+Informations générales
+=================================================================
+Envoi de l'identification du produit système en cours  : Assemblage - Runcam Camera FPV.SLDASM
+Réception de l'identification du produit système en cours: Assemblage - Runcam Camera FPV.SLDASM
+Nom de fichier                    : C:\Users\Guillaume\Desktop\Upload - Runcam Eagle 2\Assemblage - Runcam Camera FPV.IGS
+Envoi du système en cours               : SolidWorks 2014
+Version du préprocesseur         : SolidWorks 2014
+Date de création du fichier           : 180412.131714
+Date de création du modèle          : 180412.131714
+Unités                        : MM
+Echelle de l'espace modèle            : 1
+Auteur                       : Guillaume
+Organisation                 : 
+
+
+=================================================================
+Informations sur le traitement des entités
+=================================================================
+
+
+=================================================================
+Analyse de précision d'un fichier IGES:
+=================================================================
+  Nombre le plus répandu de chiffres significatifs:              10
+  Nombre le plus grand de chiffres significatifs:                     12
+  Nombre moyen de chiffres significatifs :                8.70551
+  Distance maximale jusqu'à l'origine:                          998.053
+  Distance minimale jusqu'à l'origine:                                0
+  Nombre effectif de chiffres significatifs:                   12
+
+
+=================================================================
+Récapitulatif des entités
+=================================================================
+-----------------------------------------------------------------
+Nom de type                                         Nombre converti
+---- ----                                         ----- ---------
+100  Arc                                           2556      2556
+102  Composite curve                               3592      3592
+110  Line                                          6114      6114
+120  Surface of revolution                          383       383
+124  Transformation matrix                         1311      1311
+126  Rational B-spline curve                      10953     10953
+128  Rational B-spline surface                     1366      1366
+142  Curve on a parametric surface                 1796      1796
+144  Trimmed parametric surface                    1749      1749
+308  Subfigure definition                             7         7
+314  Color definition                                78        78
+408  Singular subfigure instance                      7         7
+_________________________________________________________________
+
+
+=================================================================
+Récapitulatif des résultats
+=================================================================
+Type de fonction SolidWorks                Nombre
+-----------------------                -----
+Fonction(s) volumique(s)                       8
+Fonction(s) surfacique(s)                     0
+Fonction(s) de courbe/d'esquisse                0
+--------------------------------------------
+Heure de début: jeudi, avril 12, 2018 13:19:28
+Heure de fin: jeudi, avril 12, 2018 13:19:53
+Durée de traitement: 0 days, 00 hours, 00 mins, 25 secs
