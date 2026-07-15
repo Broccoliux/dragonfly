@@ -883,3 +883,10 @@ so i ma switching from lapse to hacktime, setup in freecad, cuzz lapse sucks.
 
 
 finally complted the cad also the internet is back and stable now, i used hacktime for freecad, cuz lapse is not working , so the next i will be woking on firmware, even i am not gonna build completed, cuz i will do that when i will get everything in my hands, so rn it will be more like a skeleton
+
+check this out
+
+<img width="825" height="532" alt="image" src="https://github.com/user-attachments/assets/57d43ffe-7ac7-40f5-9afe-6882474c9062" />
+
+
+about the frimware i dont have to write the frimware from scratch, there are alredy frist class porved out there online,i just need to configure them.
