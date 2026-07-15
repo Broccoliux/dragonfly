@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -33,6 +33,7 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
+      "ratsnest",
       "footprints_front",
       "footprints_back",
       "footprint_values",
@@ -124,8 +125,8 @@
   "project": {
     "files": [
       {
-        "name": "Dragonfly.kicad_pcb",
-        "open": true,
+        "name": "Dragonfly.kicad_sch",
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
@@ -136,7 +137,7 @@
         }
       },
       {
-        "name": "Dragonfly.kicad_sch",
+        "name": "Dragonfly.kicad_pcb",
         "open": true,
         "window": {
           "display": 0,
