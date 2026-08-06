@@ -109,4 +109,4 @@ Dragonfly/
  
 **broccoli 🥦** — Solo hardware builder from Pakistan.
  
-*Chasing what I love. GEO*
+*Chasing what I love. GE0*
