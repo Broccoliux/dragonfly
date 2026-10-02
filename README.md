@@ -19,7 +19,7 @@ I wanted to go past just building a flight controller most DIY FC projects stop 
 This became a fromscratch systems project schematic, PCB layout, mechanical frame design, and firmware, all built and understood end-to-end rather than assembled from a kit.
  
 ---
- 
+     
 ## Features
  
 - 4-layer PCB designed from scratch in KiCad, all-in-one FC + ESC on a single board
